@@ -7,19 +7,19 @@ Mark Symbols（标注标识组件），一个专为UI设计师打造的标注工
 ## 如何使用
 ### 尺寸及间距标注
 1.尺寸标注
-<video loop="" preload="auto" muted="" autoplay="" playsinline="" id="video" style="border: none;visibility: visible;object-fit: fill;width: 100%;" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/1.mp4"></video>
+<img style="width:100%" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/1.gif?raw=true">
 </br>
 2.间距标注
-<video loop="" preload="auto" muted="" autoplay="" playsinline="" id="video" style="border: none;visibility: visible;object-fit: fill;width: 100%;" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/2.mp4"></video>
+<img style="width:100%" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/2.gif?raw=true">
 
 ### 要点标识
 1.要点标识
-<iframe><video preload="auto" muted="" autoplay="" playsinline="" style="border: none;visibility: visible;object-fit: fill;width: 100%;" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/3.mp4"></video></iframe>
-<video loop="" preload="auto" muted="" autoplay="" playsinline="" id="video" style="border: none;visibility: visible;object-fit: fill;width: 100%;" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/4.mp4"></video>
-<video loop="" preload="auto" muted="" autoplay="" playsinline="" id="video" style="border: none;visibility: visible;object-fit: fill;width: 100%;" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/5.mp4"></video>
+<img style="width:100%" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/3.gif?raw=true">
+<img style="width:100%" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/4.gif?raw=true">
+<img style="width:100%" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/5.gif?raw=true">
 </br>
 2.说明标识
-<video loop="" preload="auto" muted="" autoplay="" playsinline="" id="video" style="border: none;visibility: visible;object-fit: fill;width: 100%;" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/6.mp4"></video>
+<img style="width:100%" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/6.gif?raw=true">
 
 ## 意见反馈
 如在使用途中有任何疑问或问题，可通过邮件联系<a href="mailto:kingweicheung@qq.com">kingweicheung@qq.com</a>，收到后会尽快为您解决。

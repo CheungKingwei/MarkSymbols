@@ -14,7 +14,7 @@ Mark Symbols（标注标识组件），一个专为UI设计师打造的标注工
 
 ### 要点标识
 1.要点标识
-<video loop="" preload="auto" muted="" autoplay="" playsinline="" id="video" style="border: none;visibility: visible;object-fit: fill;width: 100%;" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/3.mp4"></video>
+<video preload="auto" muted="" autoplay="" playsinline="" style="border: none;visibility: visible;object-fit: fill;width: 100%;" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/3.mp4"></video>
 <video loop="" preload="auto" muted="" autoplay="" playsinline="" id="video" style="border: none;visibility: visible;object-fit: fill;width: 100%;" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/4.mp4"></video>
 <video loop="" preload="auto" muted="" autoplay="" playsinline="" id="video" style="border: none;visibility: visible;object-fit: fill;width: 100%;" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/5.mp4"></video>
 </br>

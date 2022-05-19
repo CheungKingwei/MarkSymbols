@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        /* @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap"); */
+        
+        body {
+            min-height: 200vh;
+        }
+        
+        main {
+            display: grid;
+            /* max-width: 500px; */
+            width: 100%;
+            margin: 0 auto;
+            overflow: hidden;
+            grid-template-columns: 100%;
+        }
+        
+        svg {
+            display: block;
+            height: 100%;
+            justify-self: center;
+        }
+        
+        pre {
+            margin-block-start: 0;
+            margin-block-end: 0;
+            overflow: auto;
+        }
+        /* #hole {
+          fill: rgb(75, 40, 40);
+          stroke: rgb(153, 122, 122);
+          stroke-width: 10;
+        } */
+        /* button {
+          background-color: rgb(0, 114, 57);
+          color: white;
+          border: none;
+          box-shadow: 0 0 3px 2px rgba(65, 44, 44, 0.5);
+          font-weight: bold;
+          padding: 10px;
+          border-radius: 5px;
+          width: 100px;
+          justify-self: center;
+        } */
+        
+        .show {
+            stroke: red;
+            stroke-width: 2;
+        }
+        
+        h1 {
+            font-family: caveat, cursive;
+            font-size: 1.75em;
+            justify-self: center;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <svg id="hole-svg" viewBox="0 0 200 100">
+      <path id="spiral" style="fill:none" d="M20 20L100 100" />
+      <text> <textPath id="rabbit" href="#spiral">🐇</textPath>
+      </text>
+    </svg>
+
+        <button>Show Path</button>
+        <script>
+            //down the hole code
+            let svg = document.getElementById("hole-svg");
+            let button = document.querySelector("button");
+            button.addEventListener("click", show);
+
+            let spiralPath = document.getElementById("spiral");
+            let spiralLength = spiralPath.getTotalLength();
+            let rabbit = document.getElementById("rabbit");
+            let scrollPosition = 0;
+
+            function updateTextPathOffset(offset) {
+                rabbit.setAttribute("startOffset", offset);
+            }
+
+            function move() {
+                let margin = 10; //this is to ensure the text goes beyond the end of the path
+
+                requestAnimationFrame(function() {
+                    let scrollPosition = window.scrollY;
+
+                    if (scrollPosition <= spiralLength + margin) {
+                        updateTextPathOffset(scrollPosition);
+                    }
+                });
+            }
+
+            function show() {
+                spiralPath.classList.toggle("show");
+            }
+
+            window.addEventListener("scroll", move);
+
+            // //hopping code
+            // let rabbitTextPath = document.getElementById("hopping-rabbit");
+            // let hopInput = document.getElementById("hop-input");
+            // let hopValue = document.getElementById("hop-value");
+
+            // hopInput.addEventListener("change", function (event) {
+            //   let newValue = event.target.value + "%";
+            //   rabbitTextPath.setAttribute("startOffset", newValue);
+            //   hopValue.textContent = 'startOffset="' + newValue + '"';
+            // });
+        </script>
+</body>
+
+</html>

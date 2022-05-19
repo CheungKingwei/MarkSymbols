@@ -1,4 +1,6 @@
 /* 滚动 */
+
+
 /* 
 .body-wrapper {
     width: 100%;
@@ -27,6 +29,8 @@
   top: 0px;
   transform: translate(-2px) scale(3);
 } */
+
+
 /* 结束 */
 
 .slick-slider {
@@ -39,6 +43,7 @@
     user-select: none;
     -khtml-user-select: none
 }
+
 .slick-list,
 .slick-slider {
     display: block;
@@ -3302,7 +3307,7 @@ h1 {
 }
 
 .testimonials {
-    padding: 0 30px 120px
+    padding: 0 0 120px
 }
 
 @media(min-width:1300xpx) {

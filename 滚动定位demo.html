@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div.parent {
+            height: 500px;
+            border: 1px solid #f00;
+            padding: 20px;
+            overflow-y: auto;
+        }
+        div.child {
+            height: 1000px;
+            margin-bottom: 50px;
+            border: 1px solid #0f0;
+        }
+    </style>
+</head>
+<body>
+    <div class="parent">
+        <div class="child" id="demo1">
+            <button id="jump">点击</button>
+            hello world
+        </div>
+        <div class="child" id="demo2">
+            hello world
+            <button id="jumpTop">点击</button>
+        </div>
+    </div>
+    <script>
+        var parent = document.querySelector('.parent');
+        let jump = document.querySelector('#jump')
+        let jumpTop = document.querySelector('#jumpTop')
+        /* @parems
+            target  type: elemnt  元素值
+            position  number | string  要滚动的位置  可以写 “top”, "bottom"
+        */
+        var timer = null;
+        function scrollPosition(target, position){
+            // 父层元素的高度
+            let height = window.getComputedStyle(target).height.replace('px', '');
+            // 父元素可滚动的高度
+            let scrollHegiht = target.scrollHeight;
+            height = Number(height);
+            // 取消一个通过调用requestAnimationFrame()方法添加到计划中的动画帧请求.
+            cancelAnimationFrame(timer);
+            // 判断滚动那个位置
+            if(position == "top") {
+                position = 0
+                /* requestAnimationFrame 会把每一帧中的所有DOM操作集中起来, 一般来说，这个频率为每秒60帧。 */
+                timer = requestAnimationFrame(function sTop(){
+                    var top = target.scrollTop;
+                    if(top > position){
+                        //使用定时器，将scrollTop的值每次减少20（自行设置），直到减少到0，则滚动完毕
+                        target.scrollTop =  top - 20;
+                        timer = requestAnimationFrame(sTop);//递归调用
+                    }else{
+                        cancelAnimationFrame(timer);
+                    } 
+                });
+            } else {
+                if(position == "bottom") {
+                    position = scrollHegiht - height - 100; 
+                }
+                timer = requestAnimationFrame(function sTop(){
+                    var top = target.scrollTop;
+                    if(top < position){
+                        target.scrollTop =  top + 20;
+                        timer = requestAnimationFrame(sTop);//递归调用
+                    }else{
+                        cancelAnimationFrame(timer);
+                    } 
+                });
+            }
+        }
+        jump.addEventListener('click', () => scrollPosition(parent, 'bottom'), false);
+        jumpTop.addEventListener('click', () => scrollPosition(parent, 'top'), false);
+
+  
+    </script>
+</body>
+</html>

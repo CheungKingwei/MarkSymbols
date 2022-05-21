@@ -1,0 +1,457 @@
+/*! For license information please see component---src-pages-index-js-c4d2c96a9784f9584609.js.LICENSE.txt */
+(self.webpackChunkgatsby_starter_default = self.webpackChunkgatsby_starter_default || []).push([
+    [678], {
+        440: function(e) {
+            "use strict";
+            e.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/e76206f85646ca837909df2892c49908/7ba06/focus-distractions.png","srcSet":"/static/e76206f85646ca837909df2892c49908/fb9fb/focus-distractions.png 122w,\\n/static/e76206f85646ca837909df2892c49908/53ce2/focus-distractions.png 245w,\\n/static/e76206f85646ca837909df2892c49908/7ba06/focus-distractions.png 489w","sizes":"(min-width: 489px) 489px, 100vw"},"sources":[{"srcSet":"/static/e76206f85646ca837909df2892c49908/95e7b/focus-distractions.webp 122w,\\n/static/e76206f85646ca837909df2892c49908/2741b/focus-distractions.webp 245w,\\n/static/e76206f85646ca837909df2892c49908/5dc6d/focus-distractions.webp 489w","type":"image/webp","sizes":"(min-width: 489px) 489px, 100vw"}]},"width":489,"height":157}')
+        },
+        8281: function(e) {
+            "use strict";
+            e.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/2143e3486e91e545cf8d8faabb3065d7/8844b/meditate.jpg","srcSet":"/static/2143e3486e91e545cf8d8faabb3065d7/81250/meditate.jpg 424w,\\n/static/2143e3486e91e545cf8d8faabb3065d7/6fc45/meditate.jpg 848w,\\n/static/2143e3486e91e545cf8d8faabb3065d7/8844b/meditate.jpg 1695w","sizes":"(min-width: 1695px) 1695px, 100vw"},"sources":[{"srcSet":"/static/2143e3486e91e545cf8d8faabb3065d7/6067a/meditate.webp 424w,\\n/static/2143e3486e91e545cf8d8faabb3065d7/245ba/meditate.webp 848w,\\n/static/2143e3486e91e545cf8d8faabb3065d7/8edb7/meditate.webp 1695w","type":"image/webp","sizes":"(min-width: 1695px) 1695px, 100vw"}]},"width":1695,"height":1017}')
+        },
+        4918: function(e) {
+            "use strict";
+            e.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/66d99b48dc9c361995dc39f6ffc7db96/8b17d/footer-illustration-mob.jpg","srcSet":"/static/66d99b48dc9c361995dc39f6ffc7db96/bd2a9/footer-illustration-mob.jpg 263w,\\n/static/66d99b48dc9c361995dc39f6ffc7db96/aaa2e/footer-illustration-mob.jpg 525w,\\n/static/66d99b48dc9c361995dc39f6ffc7db96/8b17d/footer-illustration-mob.jpg 1050w","sizes":"(min-width: 1050px) 1050px, 100vw"},"sources":[{"srcSet":"/static/66d99b48dc9c361995dc39f6ffc7db96/b7dd4/footer-illustration-mob.webp 263w,\\n/static/66d99b48dc9c361995dc39f6ffc7db96/05394/footer-illustration-mob.webp 525w,\\n/static/66d99b48dc9c361995dc39f6ffc7db96/4f05f/footer-illustration-mob.webp 1050w","type":"image/webp","sizes":"(min-width: 1050px) 1050px, 100vw"}]},"width":1050,"height":649}')
+        },
+        2837: function(e) {
+            "use strict";
+            e.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/362424cfb1f139cc3735af6a691f0fa1/bfd36/footer-illustration.jpg","srcSet":"/static/362424cfb1f139cc3735af6a691f0fa1/0514a/footer-illustration.jpg 665w,\\n/static/362424cfb1f139cc3735af6a691f0fa1/6d0ab/footer-illustration.jpg 1330w,\\n/static/362424cfb1f139cc3735af6a691f0fa1/bfd36/footer-illustration.jpg 2659w","sizes":"(min-width: 2659px) 2659px, 100vw"},"sources":[{"srcSet":"/static/362424cfb1f139cc3735af6a691f0fa1/72092/footer-illustration.webp 665w,\\n/static/362424cfb1f139cc3735af6a691f0fa1/0410a/footer-illustration.webp 1330w,\\n/static/362424cfb1f139cc3735af6a691f0fa1/dd848/footer-illustration.webp 2659w","type":"image/webp","sizes":"(min-width: 2659px) 2659px, 100vw"}]},"width":2659,"height":1122}')
+        },
+        2985: function(e) {
+            "use strict";
+            e.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/5edd5eaceccb196fa1c9255241c4075c/f170c/nexus.png","srcSet":"/static/5edd5eaceccb196fa1c9255241c4075c/daba8/nexus.png 96w,\\n/static/5edd5eaceccb196fa1c9255241c4075c/8785a/nexus.png 192w,\\n/static/5edd5eaceccb196fa1c9255241c4075c/f170c/nexus.png 383w","sizes":"(min-width: 383px) 383px, 100vw"},"sources":[{"srcSet":"/static/5edd5eaceccb196fa1c9255241c4075c/bb841/nexus.webp 96w,\\n/static/5edd5eaceccb196fa1c9255241c4075c/8197e/nexus.webp 192w,\\n/static/5edd5eaceccb196fa1c9255241c4075c/a91ef/nexus.webp 383w","type":"image/webp","sizes":"(min-width: 383px) 383px, 100vw"}]},"width":383,"height":136}')
+        },
+        5172: function(e) {
+            "use strict";
+            e.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/67f4cc4e18597e2bbcf69a40ab62e9fd/a35bf/stats-illustration.jpg","srcSet":"/static/67f4cc4e18597e2bbcf69a40ab62e9fd/c6ed0/stats-illustration.jpg 288w,\\n/static/67f4cc4e18597e2bbcf69a40ab62e9fd/9922c/stats-illustration.jpg 576w,\\n/static/67f4cc4e18597e2bbcf69a40ab62e9fd/a35bf/stats-illustration.jpg 1151w","sizes":"(min-width: 1151px) 1151px, 100vw"},"sources":[{"srcSet":"/static/67f4cc4e18597e2bbcf69a40ab62e9fd/b885f/stats-illustration.webp 288w,\\n/static/67f4cc4e18597e2bbcf69a40ab62e9fd/5bad5/stats-illustration.webp 576w,\\n/static/67f4cc4e18597e2bbcf69a40ab62e9fd/e0bd1/stats-illustration.webp 1151w","type":"image/webp","sizes":"(min-width: 1151px) 1151px, 100vw"}]},"width":1151,"height":1069}')
+        },
+        2506: function(e) {
+            "use strict";
+            e.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/14b02770d5bd815c902acccecad2ec85/8b331/video-poster.jpg","srcSet":"/static/14b02770d5bd815c902acccecad2ec85/9aa83/video-poster.jpg 720w,\\n/static/14b02770d5bd815c902acccecad2ec85/1ed54/video-poster.jpg 1440w,\\n/static/14b02770d5bd815c902acccecad2ec85/8b331/video-poster.jpg 2880w","sizes":"(min-width: 2880px) 2880px, 100vw"},"sources":[{"srcSet":"/static/14b02770d5bd815c902acccecad2ec85/a5ebe/video-poster.webp 720w,\\n/static/14b02770d5bd815c902acccecad2ec85/de1f7/video-poster.webp 1440w,\\n/static/14b02770d5bd815c902acccecad2ec85/5a3f3/video-poster.webp 2880w","type":"image/webp","sizes":"(min-width: 2880px) 2880px, 100vw"}]},"width":2880,"height":1590}')
+        },
+        5706: function(e, t, a) {
+            "use strict";
+            var i = a(8812),
+                n = { childContextTypes: !0, contextType: !0, contextTypes: !0, defaultProps: !0, displayName: !0, getDefaultProps: !0, getDerivedStateFromError: !0, getDerivedStateFromProps: !0, mixins: !0, propTypes: !0, type: !0 },
+                r = { name: !0, length: !0, prototype: !0, caller: !0, callee: !0, arguments: !0, arity: !0 },
+                c = { $$typeof: !0, compare: !0, defaultProps: !0, displayName: !0, propTypes: !0, type: !0 },
+                s = {};
+
+            function o(e) { return i.isMemo(e) ? c : s[e.$$typeof] || n }
+            s[i.ForwardRef] = { $$typeof: !0, render: !0, defaultProps: !0, displayName: !0, propTypes: !0 }, s[i.Memo] = c;
+            var l = Object.defineProperty,
+                m = Object.getOwnPropertyNames,
+                d = Object.getOwnPropertySymbols,
+                u = Object.getOwnPropertyDescriptor,
+                g = Object.getPrototypeOf,
+                M = Object.prototype;
+            e.exports = function e(t, a, i) {
+                if ("string" != typeof a) {
+                    if (M) {
+                        var n = g(a);
+                        n && n !== M && e(t, n, i)
+                    }
+                    var c = m(a);
+                    d && (c = c.concat(d(a)));
+                    for (var s = o(t), f = o(a), N = 0; N < c.length; ++N) { var I = c[N]; if (!(r[I] || i && i[I] || f && f[I] || s && s[I])) { var p = u(a, I); try { l(t, I, p) } catch (y) {} } }
+                }
+                return t
+            }
+        },
+        165: function(e, t) {
+            "use strict";
+            var a = "function" == typeof Symbol && Symbol.for,
+                i = a ? Symbol.for("react.element") : 60103,
+                n = a ? Symbol.for("react.portal") : 60106,
+                r = a ? Symbol.for("react.fragment") : 60107,
+                c = a ? Symbol.for("react.strict_mode") : 60108,
+                s = a ? Symbol.for("react.profiler") : 60114,
+                o = a ? Symbol.for("react.provider") : 60109,
+                l = a ? Symbol.for("react.context") : 60110,
+                m = a ? Symbol.for("react.async_mode") : 60111,
+                d = a ? Symbol.for("react.concurrent_mode") : 60111,
+                u = a ? Symbol.for("react.forward_ref") : 60112,
+                g = a ? Symbol.for("react.suspense") : 60113,
+                M = a ? Symbol.for("react.suspense_list") : 60120,
+                f = a ? Symbol.for("react.memo") : 60115,
+                N = a ? Symbol.for("react.lazy") : 60116,
+                I = a ? Symbol.for("react.block") : 60121,
+                p = a ? Symbol.for("react.fundamental") : 60117,
+                y = a ? Symbol.for("react.responder") : 60118,
+                j = a ? Symbol.for("react.scope") : 60119;
+
+            function v(e) {
+                if ("object" == typeof e && null !== e) {
+                    var t = e.$$typeof;
+                    switch (t) {
+                        case i:
+                            switch (e = e.type) {
+                                case m:
+                                case d:
+                                case r:
+                                case s:
+                                case c:
+                                case g:
+                                    return e;
+                                default:
+                                    switch (e = e && e.$$typeof) {
+                                        case l:
+                                        case u:
+                                        case N:
+                                        case f:
+                                        case o:
+                                            return e;
+                                        default:
+                                            return t
+                                    }
+                            }
+                        case n:
+                            return t
+                    }
+                }
+            }
+
+            function z(e) { return v(e) === d }
+            t.AsyncMode = m, t.ConcurrentMode = d, t.ContextConsumer = l, t.ContextProvider = o, t.Element = i, t.ForwardRef = u, t.Fragment = r, t.Lazy = N, t.Memo = f, t.Portal = n, t.Profiler = s, t.StrictMode = c, t.Suspense = g, t.isAsyncMode = function(e) { return z(e) || v(e) === m }, t.isConcurrentMode = z, t.isContextConsumer = function(e) { return v(e) === l }, t.isContextProvider = function(e) { return v(e) === o }, t.isElement = function(e) { return "object" == typeof e && null !== e && e.$$typeof === i }, t.isForwardRef = function(e) { return v(e) === u }, t.isFragment = function(e) { return v(e) === r }, t.isLazy = function(e) { return v(e) === N }, t.isMemo = function(e) { return v(e) === f }, t.isPortal = function(e) { return v(e) === n }, t.isProfiler = function(e) { return v(e) === s }, t.isStrictMode = function(e) { return v(e) === c }, t.isSuspense = function(e) { return v(e) === g }, t.isValidElementType = function(e) { return "string" == typeof e || "function" == typeof e || e === r || e === d || e === s || e === c || e === g || e === M || "object" == typeof e && null !== e && (e.$$typeof === N || e.$$typeof === f || e.$$typeof === o || e.$$typeof === l || e.$$typeof === u || e.$$typeof === p || e.$$typeof === y || e.$$typeof === j || e.$$typeof === I) }, t.typeOf = v
+        },
+        8812: function(e, t, a) {
+            "use strict";
+            e.exports = a(165)
+        },
+        3562: function(e, t, a) {
+            "use strict";
+            a.r(t), a.d(t, { default: function() { return J } });
+            var i = a(7294),
+                n = a(8624),
+                r = a(2335),
+                c = a(6125),
+                s = a(5697),
+                o = a.n(s),
+                l = a(5706),
+                m = a.n(l);
+
+            function d() { return (d = Object.assign || function(e) { for (var t = 1; t < arguments.length; t++) { var a = arguments[t]; for (var i in a) Object.prototype.hasOwnProperty.call(a, i) && (e[i] = a[i]) } return e }).apply(this, arguments) }
+            var u = {},
+                g = 0;
+
+            function M(e, t) {
+                return t = t || {},
+                    function(a) {
+                        var n = a.displayName || a.name || "Component",
+                            r = function(n) {
+                                var r, c;
+
+                                function s(e, t) { var a; return (a = n.call(this, e, t) || this).state = {}, a.__scriptURL = "", a }
+                                c = n, (r = s).prototype = Object.create(c.prototype), r.prototype.constructor = r, r.__proto__ = c;
+                                var o = s.prototype;
+                                return o.asyncScriptLoaderGetScriptLoaderID = function() { return this.__scriptLoaderID || (this.__scriptLoaderID = "async-script-loader-" + g++), this.__scriptLoaderID }, o.setupScriptURL = function() { return this.__scriptURL = "function" == typeof e ? e() : e, this.__scriptURL }, o.asyncScriptLoaderHandleLoad = function(e) {
+                                    var t = this;
+                                    this.setState(e, (function() { return t.props.asyncScriptOnLoad && t.props.asyncScriptOnLoad(t.state) }))
+                                }, o.asyncScriptLoaderTriggerOnScriptLoaded = function() {
+                                    var e = u[this.__scriptURL];
+                                    if (!e || !e.loaded) throw new Error("Script is not loaded.");
+                                    for (var a in e.observers) e.observers[a](e);
+                                    delete window[t.callbackName]
+                                }, o.componentDidMount = function() {
+                                    var e = this,
+                                        a = this.setupScriptURL(),
+                                        i = this.asyncScriptLoaderGetScriptLoaderID(),
+                                        n = t,
+                                        r = n.globalName,
+                                        c = n.callbackName,
+                                        s = n.scriptId;
+                                    if (r && void 0 !== window[r] && (u[a] = { loaded: !0, observers: {} }), u[a]) { var o = u[a]; return o && (o.loaded || o.errored) ? void this.asyncScriptLoaderHandleLoad(o) : void(o.observers[i] = function(t) { return e.asyncScriptLoaderHandleLoad(t) }) }
+                                    var l = {};
+                                    l[i] = function(t) { return e.asyncScriptLoaderHandleLoad(t) }, u[a] = { loaded: !1, observers: l };
+                                    var m = document.createElement("script");
+                                    for (var d in m.src = a, m.async = !0, t.attributes) m.setAttribute(d, t.attributes[d]);
+                                    s && (m.id = s);
+                                    var g = function(e) { if (u[a]) { var t = u[a].observers; for (var i in t) e(t[i]) && delete t[i] } };
+                                    c && "undefined" != typeof window && (window[c] = function() { return e.asyncScriptLoaderTriggerOnScriptLoaded() }), m.onload = function() {
+                                        var e = u[a];
+                                        e && (e.loaded = !0, g((function(t) { return !c && (t(e), !0) })))
+                                    }, m.onerror = function() {
+                                        var e = u[a];
+                                        e && (e.errored = !0, g((function(t) { return t(e), !0 })))
+                                    }, document.body.appendChild(m)
+                                }, o.componentWillUnmount = function() {
+                                    var e = this.__scriptURL;
+                                    if (!0 === t.removeOnUnmount)
+                                        for (var a = document.getElementsByTagName("script"), i = 0; i < a.length; i += 1) a[i].src.indexOf(e) > -1 && a[i].parentNode && a[i].parentNode.removeChild(a[i]);
+                                    var n = u[e];
+                                    n && (delete n.observers[this.asyncScriptLoaderGetScriptLoaderID()], !0 === t.removeOnUnmount && delete u[e])
+                                }, o.render = function() {
+                                    var e = t.globalName,
+                                        n = this.props,
+                                        r = (n.asyncScriptOnLoad, n.forwardedRef),
+                                        c = function(e, t) {
+                                            if (null == e) return {};
+                                            var a, i, n = {},
+                                                r = Object.keys(e);
+                                            for (i = 0; i < r.length; i++) a = r[i], t.indexOf(a) >= 0 || (n[a] = e[a]);
+                                            return n
+                                        }(n, ["asyncScriptOnLoad", "forwardedRef"]);
+                                    return e && "undefined" != typeof window && (c[e] = void 0 !== window[e] ? window[e] : void 0), c.ref = r, (0, i.createElement)(a, c)
+                                }, s
+                            }(i.Component),
+                            c = (0, i.forwardRef)((function(e, t) { return (0, i.createElement)(r, d({}, e, { forwardedRef: t })) }));
+                        return c.displayName = "AsyncScriptLoader(" + n + ")", c.propTypes = { asyncScriptOnLoad: o().func }, m()(c, a)
+                    }
+            }
+            var f = a(9222),
+                N = function(e) {
+                    var t = (0, i.useState)((function() { return "object" == typeof window && window.matchMedia(e).matches })),
+                        a = t[0],
+                        n = t[1];
+                    return (0, i.useEffect)((function() {
+                        var t = window.matchMedia(e),
+                            a = function(e) { return n(e.matches) };
+                        return t.addListener(a),
+                            function() { t.removeListener(a) }
+                    }), [e]), a
+                };
+            var I = function(e) {
+                var t = e.lottie,
+                    n = (0, i.useRef)(),
+                    r = (0, i.useRef)(),
+                    s = (0, i.useRef)(),
+                    o = (0, i.useRef)(),
+                    l = (0, i.useRef)(),
+                    m = (0, i.useRef)(),
+                    d = N("(max-width: 900px)");
+                return (0, i.useEffect)((function() {
+                    var e = function(e) {
+                        var t, a = e.centerHeroCard,
+                            i = e.heroCardOne,
+                            n = e.heroCardTwo,
+                            r = e.heroCardThree;
+
+                        function c() {
+                            var e = Math.min(window.pageYOffset / t, 1);
+                            i.current.style.transform = "translate3d(" + 200 * e + "% , " + 500 * e + "%, 0) rotate(" + (40 * e - 16) + "deg) scale(" + (1 - .2 * e) + ")", i.current.style.opacity = "" + (1 - e * e), n.current.style.transform = "translate3d(" + 200 * e + "% , " + 400 * e + "%, 0) rotate(" + (40 * e - 30) + "deg) scale(" + (1 - .2 * e) + ")", n.current.style.opacity = "" + (1 - e * e), r.current.style.transform = "translate3d(" + -200 * e + "% , " + 400 * e + "%, 0) rotate(" + (16 - 30 * e) + "deg) scale(" + (1 - .2 * e) + ")", r.current.style.opacity = "" + (1 - e)
+                        }
+                        return e.heroVideo,
+                            function() {
+                                var e;
+                                t = (null === (e = a.current) || void 0 === e ? void 0 : e.offsetTop) - a.current.offsetHeight / 4 || 0, window.pageYOffset < window.innerHeight && window.innerWidth > 767 && requestAnimationFrame(c)
+                            }
+                    }({ centerHeroCard: o, heroCardOne: n, heroCardTwo: r, heroCardThree: s });
+                    return window.addEventListener("scroll", e, !0),
+                        function() { window.removeEventListener("scroll", e, !0) }
+                }), []), (0, i.useEffect)((function() {
+                    if (t) {
+                        var e = window.lottie.loadAnimation({ container: l.current, path: "/lottie/hero-banner.json", autoplay: d, loop: !1, renderer: "svg" }),
+                            a = function() {
+                                var t, a;
+                                d ? window.pageYOffset > (null === (t = l.current) || void 0 === t ? void 0 : t.offsetHeight) + window.innerHeight / 2 ? e.stop() : e.play() : window.pageYOffset > (null === (a = l.current) || void 0 === a ? void 0 : a.offsetHeight) + window.innerHeight / 2 || window.pageYOffset < window.innerHeight / 4 ? e.stop() : e.play()
+                            };
+                        return window.addEventListener("scroll", a, !0), e.addEventListener("DOMLoaded", (function() { m.current && m.current.classList.add("hidden") })),
+                            function() { window.removeEventListener("scroll", a, !0), e.destroy() }
+                    }
+                }), [t, d, l]), i.createElement(i.Fragment, null, i.createElement("div", { className: "hero container" }, i.createElement("div", { className: "card card-1 hidden-mobile", ref: n }, i.createElement("img", { loading: "lazy", className: "float", src: "/img/slack-card.svg", alt: "slack" })), i.createElement("div", { className: "card card-2 hidden-mobile", ref: r }, i.createElement("img", { loading: "lazy", className: "float", src: "/img/note.svg", alt: "note" })), i.createElement("h1", { className: "heading" }, "Be more", i.createElement("span", { className: "text-gradient" }, " effective "), i.createElement("br", null), "and less busy"), i.createElement("p", { className: "sub-heading" }, "Aerotime helps you work in flow state by streamlining your meetings and making it easier to prioritize tasks."), i.createElement("div", { className: "wrap", ref: o }, i.createElement(f.z, { size: "xl", text: "Get Started For Free", type: "primary", url: "https://app.aerotime.ai/" }), i.createElement("img", { loading: "lazy", className: "arrow", src: "/img/arrow-curly.svg", alt: "" })), i.createElement("div", { className: "card card-3 hidden-mobile", ref: s }, i.createElement("img", { loading: "lazy", className: "float", src: "/img/asana.svg", alt: "" }))), i.createElement("div", { className: "hero-section" }, i.createElement("div", { className: "app-mock container", ref: l }, i.createElement("div", { ref: m }, i.createElement(c.S, { src: "../../images/video-poster.jpg", className: "video-poster", alt: "", loading: "lazy", __imageData: a(2506) }))), i.createElement("div", { className: "brands container" }, i.createElement("h2", null, "Trusted by dynamic companies"), i.createElement("div", { className: "brand-images" }, i.createElement("img", { loading: "lazy", className: "brand-image", src: "/img/jupiter.svg", alt: "jupiter", style: { width: 115 } }), i.createElement("img", { loading: "lazy", className: "brand-image", src: "/img/fampay.svg", alt: "fampay", style: { width: 120 } }), i.createElement("img", { loading: "lazy", className: "brand-image", src: "/img/groww.svg", alt: "groww", style: { width: 127 } }), i.createElement("img", { loading: "lazy", className: "brand-image", src: "/img/nextdoor.svg", alt: "nextdoor", style: { width: 136 } }), i.createElement("img", { loading: "lazy", className: "brand-image", src: "/img/swiggy.svg", alt: "swiggy", style: { width: 120 } }), i.createElement("img", { loading: "lazy", className: "brand-image", src: "/img/razorpay.svg", alt: "razorpay", style: { width: 165 } }), i.createElement("img", { loading: "lazy", className: "brand-image", src: "/img/ycombinator.svg", alt: "ycombinator", style: { width: 145 } }), i.createElement(c.S, { className: "brand-image", src: "../../images/nexus.png", alt: "nexus", style: { width: 95 }, loading: "lazy", __imageData: a(2985) }), i.createElement("img", { loading: "lazy", className: "brand-image", src: "/img/sequoia.svg", alt: "sequoia", style: { width: 148 } }), i.createElement("img", { loading: "lazy", className: "brand-image hidden-mobile", src: "/img/mighty-buildings.svg", alt: "mighty-buildings", style: { width: 116 } }), i.createElement("img", { loading: "lazy", className: "brand-image hidden-mobile", src: "/img/dyte.svg", alt: "dyte", style: { width: 100 } }), i.createElement("img", { loading: "lazy", className: "brand-image hidden-mobile", src: "/img/tigerhall.svg", alt: "tigerhall", style: { width: 114 } })), i.createElement("div", { className: "wrap-info" }, i.createElement("div", { className: "empty" }), i.createElement("div", { className: "fill" }, i.createElement("div", { className: "border" }), i.createElement("div", { className: "backed-companies" }, "Also backed by")))), i.createElement("img", { src: "/img/wave-pattern.svg", alt: "", className: "wave-pattern" })))
+            };
+            I.defaultProps = { lottie: null };
+            var p = M("/lottie/lottie_light.min.js", { globalName: "lottie" })(I),
+                y = function(e) {
+                    var t = (0, i.useRef)(null),
+                        a = (0, i.useState)(!1),
+                        n = a[0],
+                        r = a[1],
+                        c = (0, i.useCallback)((function(e) {
+                            var t = e[0];
+                            r(t.isIntersecting)
+                        }), []);
+                    return (0, i.useEffect)((function() {
+                        var a = new IntersectionObserver(c, e),
+                            i = t.current;
+                        return i && a.observe(i),
+                            function() { i && a.unobserve(i) }
+                    }), [t, e]), [t, n]
+                },
+                j = "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTM5IiBoZWlnaHQ9IjkyIiB2aWV3Qm94PSIwIDAgMTM5IDkyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8Y2lyY2xlIGN4PSI2IiBjeT0iNzkiIHI9IjYiIGZpbGw9IiMwODI0MkEiLz4KPGNpcmNsZSBjeD0iMzEiIGN5PSI4NyIgcj0iNSIgZmlsbD0iIzA4MjQyQSIvPgo8Y2lyY2xlIGN4PSI0OCIgY3k9IjMxIiByPSI1IiBmaWxsPSIjMDgyNDJBIi8+CjxjaXJjbGUgY3g9IjY1IiBjeT0iNTEiIHI9IjYiIGZpbGw9IiMwODI0MkEiLz4KPGNpcmNsZSBjeD0iOTciIGN5PSI0MyIgcj0iNiIgZmlsbD0iIzA4MjQyQSIvPgo8Y2lyY2xlIGN4PSI3MiIgY3k9IjMxIiByPSI1IiBmaWxsPSIjMDgyNDJBIi8+CjxjaXJjbGUgY3g9IjI0IiBjeT0iNzAiIHI9IjQiIGZpbGw9IiMwODI0MkEiLz4KPGNpcmNsZSBjeD0iNDUiIGN5PSI0OCIgcj0iNCIgZmlsbD0iIzA4MjQyQSIvPgo8Y2lyY2xlIGN4PSI4MC41IiBjeT0iMTYiIHI9IjQuNSIgZmlsbD0iIzA4MjQyQSIvPgo8Y2lyY2xlIGN4PSIxMTMiIGN5PSIyMyIgcj0iNCIgZmlsbD0iIzA4MjQyQSIvPgo8Y2lyY2xlIGN4PSIxMzQiIGN5PSIxNSIgcj0iNSIgZmlsbD0iIzA4MjQyQSIvPgo8Y2lyY2xlIGN4PSIyMSIgY3k9IjI4IiByPSI2IiBmaWxsPSIjMDgyNDJBIi8+CjxjaXJjbGUgY3g9IjYzIiBjeT0iNiIgcj0iNiIgZmlsbD0iIzA4MjQyQSIvPgo8Y2lyY2xlIGN4PSI1NSIgY3k9IjczIiByPSI2IiBmaWxsPSIjMDgyNDJBIi8+Cjwvc3ZnPgo=",
+                v = "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjE0IiBoZWlnaHQ9IjIwNiIgdmlld0JveD0iMCAwIDIxNCAyMDYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0yMTEuMDEzIDQuMDMzNzRDMTE0Ljk1NiAtNS4yMTIzIDQ5LjI1OTcgMTcuNDIzNSAxMDguNzYgNjQuNjkzN0MxNjguMjYgMTExLjk2NCAxNjEuMDY3IDIxNy4xOTcgNzMuNzU5NyAxOTQuODMxQy0xMy41NDc1IDE3Mi40NjUgLTQxLjk4MTIgOTkuNjkzNyAxMDAuODMyIDEyNS42OTRDMjQzLjY0NiAxNTEuNjk0IDE3My4wNzIgMjAzLjk4OSAxNzMuMDcyIDIwMy45ODkiIHN0cm9rZT0iIzA1MTQ1MCIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==",
+                z = function(e) {
+                    var t = e.lottie,
+                        a = (0, i.useRef)(),
+                        n = (0, i.useRef)(),
+                        r = (0, i.useRef)(),
+                        c = (0, i.useRef)(),
+                        s = (0, i.useRef)(),
+                        o = (0, i.useRef)(),
+                        l = (0, i.useRef)(),
+                        m = (0, i.useRef)(),
+                        d = (0, i.useRef)(),
+                        u = N("(max-width: 900px)"),
+                        g = y(),
+                        M = g[0],
+                        I = g[1],
+                        p = (0, i.useState)(!1),
+                        z = p[0],
+                        w = p[1];
+                    return (0, i.useEffect)((function() { I && w(I) }), [I]), (0, i.useEffect)((function() {
+                        if (t && z) {
+                            var e = window.lottie.loadAnimation({ container: u ? l.current : c.current, path: "/lottie/1.json", autoplay: !0, loop: !0, renderer: "svg" }),
+                                i = window.lottie.loadAnimation({ container: u ? m.current : s.current, path: "/lottie/2.json", autoplay: !0, loop: !0, renderer: "svg" }),
+                                g = window.lottie.loadAnimation({ container: u ? d.current : o.current, path: "/lottie/3.json", autoplay: !0, loop: !0, renderer: "svg" }),
+                                M = function(e) {
+                                    var t, a, i, n, r, c, s = e.homeFeatureOne,
+                                        o = e.homeFeatureTwo,
+                                        l = e.homeFeatureThree,
+                                        m = e.homeAsset1,
+                                        d = e.homeAsset2,
+                                        u = e.homeAsset3,
+                                        g = e.asset1,
+                                        M = e.asset2,
+                                        f = e.asset3;
+                                    return function() { t && clearTimeout(t), a && clearTimeout(a), i && clearTimeout(i), n && clearTimeout(n), r && clearTimeout(r), c && clearTimeout(c), window.innerWidth > 900 ? (window.pageYOffset + 2 * s.current.offsetHeight < s.current.offsetTop && g.stop(), window.pageYOffset + 2 * s.current.offsetHeight > s.current.offsetTop && window.pageYOffset < s.current.offsetTop ? (m.current.classList.add("active"), g.play(), d.current.classList.remove("active"), t = setTimeout((function() { M.stop() }), 400), u.current.classList.remove("active"), a = setTimeout((function() { f.stop() }), 400)) : window.pageYOffset > s.current.offsetTop && window.pageYOffset < o.current.offsetTop ? (m.current.classList.remove("active"), i = setTimeout((function() { g.stop() }), 400), d.current.classList.add("active"), M.play(), u.current.classList.remove("active"), n = setTimeout((function() { f.stop() }), 400)) : window.pageYOffset > o.current.offsetTop && window.pageYOffset < l.current.offsetTop + l.current.offsetHeight ? (m.current.classList.remove("active"), r = setTimeout((function() { g.stop() }), 400), d.current.classList.remove("active"), c = setTimeout((function() { M.stop() }), 400), u.current.classList.add("active"), f.play()) : window.pageYOffset > l.current.offsetTop + 5 * l.current.offsetHeight / 4 && f.stop()) : window.innerWidth < 767 && (window.pageYOffset + s.current.offsetHeight > s.current.offsetTop && window.pageYOffset < s.current.offsetHeight + s.current.offsetTop ? g.play() : (window.pageYOffset + s.current.offsetHeight < s.current.offsetTop || window.pageYOffset > s.current.offsetHeight + s.current.offsetTop) && g.stop(), window.pageYOffset + o.current.offsetHeight > o.current.offsetTop && window.pageYOffset < o.current.offsetHeight + o.current.offsetTop ? M.play() : (window.pageYOffset + o.current.offsetHeight < o.current.offsetTop || window.pageYOffset > s.current.offsetHeight + s.current.offsetTop) && M.stop(), window.pageYOffset + l.current.offsetHeight > l.current.offsetTop && window.pageYOffset < l.current.offsetHeight + l.current.offsetTop ? f.play() : (window.pageYOffset + l.current.offsetHeight < l.current.offsetTop || window.pageYOffset > s.current.offsetHeight + s.current.offsetTop) && f.stop()) }
+                                }({ homeFeatureOne: a, homeFeatureTwo: n, homeFeatureThree: r, homeAsset1: c, homeAsset2: s, homeAsset3: o, asset1: e, asset2: i, asset3: g });
+                            return window.addEventListener("scroll", M, !0),
+                                function() { window.removeEventListener("scroll", M, !0), e.destroy(), i.destroy(), g.destroy() }
+                        }
+                        return function() {}
+                    }), [t, u, z]), i.createElement("div", { className: "fullpage-scroll container", id: "streamline", ref: M }, i.createElement("div", { className: "fixed col col-6" }, i.createElement("h1", { className: "heading" }, "Keep your calendar", i.createElement("span", { className: "text-gradient" }, " decluttered")), i.createElement("div", { className: "imageContainer hidden-mobile" }, i.createElement("div", { className: "video active", ref: c }), i.createElement("div", { className: "video", ref: s }), i.createElement("div", { className: "video", ref: o }), i.createElement("img", { loading: "lazy", className: "circles", src: j, alt: "" }), i.createElement("img", { loading: "lazy", className: "path", src: v, alt: "" }))), i.createElement("div", { className: "scrolling col col-6" }, i.createElement("div", { className: "section", ref: a }, i.createElement("div", { className: "section-data" }, i.createElement("div", { className: "section-header" }, i.createElement("img", { loading: "lazy", className: "icon", src: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTYuNjY2ODMgMjRINC4wMDAxNkMzLjI5MjkyIDI0IDIuNjE0NjQgMjMuNzE5IDIuMTE0NTQgMjMuMjE5QzEuNjE0NDUgMjIuNzE4OSAxLjMzMzUgMjIuMDQwNiAxLjMzMzUgMjEuMzMzM1YxMC42NjY3QzEuMzMzNSA5Ljk1OTQyIDEuNjE0NDUgOS4yODExNSAyLjExNDU0IDguNzgxMDVDMi42MTQ2NCA4LjI4MDk1IDMuMjkyOTIgOCA0LjAwMDE2IDhIOC4yNTM1TTIwLjAwMDIgOEgyMi42NjY4QzIzLjM3NDEgOCAyNC4wNTI0IDguMjgwOTUgMjQuNTUyNCA4Ljc4MTA1QzI1LjA1MjUgOS4yODExNSAyNS4zMzM1IDkuOTU5NDIgMjUuMzMzNSAxMC42NjY3VjIxLjMzMzNDMjUuMzMzNSAyMi4wNDA2IDI1LjA1MjUgMjIuNzE4OSAyNC41NTI0IDIzLjIxOUMyNC4wNTI0IDIzLjcxOSAyMy4zNzQxIDI0IDIyLjY2NjggMjRIMTguNDEzNSIgc3Ryb2tlPSIjNDRCQTk0IiBzdHJva2Utd2lkdGg9IjIuNjY2NjciIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMzAuNjY3IDE3LjMzMzRWMTQuNjY2NyIgc3Ryb2tlPSIjNDRCQTk0IiBzdHJva2Utd2lkdGg9IjIuNjY2NjciIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTQuNjY2OCA4TDkuMzMzNSAxNkgxNy4zMzM1TDEyLjAwMDIgMjQiIHN0cm9rZT0iIzQ0QkE5NCIgc3Ryb2tlLXdpZHRoPSIyLjY2NjY3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==", alt: "" }), i.createElement("h3", { className: "sub-heading" }, "Minimize scattered meetings")), i.createElement("p", null, "Aerotime can move meetings on your behalf and stack them to each other, removing calendar fragmentation."), i.createElement(f.z, { type: "primary", text: "Read more", size: "md", url: "https://help.aerotime.com/en/articles/5952399-flexible-meetings-minimize-scattered-meetings" }), i.createElement("div", { className: "imageContainer visible-mobile" }, i.createElement("div", { className: "mobile-image", style: { height: 246 }, ref: l }), i.createElement("img", { loading: "lazy", className: "circles", src: j, alt: "" }), i.createElement("img", { loading: "lazy", className: "path", src: v, alt: "" })))), i.createElement("div", { className: "section", ref: n }, i.createElement("div", { className: "section-data" }, i.createElement("div", { className: "section-header" }, i.createElement("img", { loading: "lazy", className: "icon", src: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTI0IDEwLjY2NjdIMjUuMzMzM0MyNi43NDc4IDEwLjY2NjcgMjguMTA0NCAxMS4yMjg3IDI5LjEwNDYgMTIuMjI4OEMzMC4xMDQ4IDEzLjIyOSAzMC42NjY3IDE0LjU4NTYgMzAuNjY2NyAxNi4wMDAxQzMwLjY2NjcgMTcuNDE0NiAzMC4xMDQ4IDE4Ljc3MTEgMjkuMTA0NiAxOS43NzEzQzI4LjEwNDQgMjAuNzcxNSAyNi43NDc4IDIxLjMzMzQgMjUuMzMzMyAyMS4zMzM0SDI0IiBzdHJva2U9IiM0NEJBOTQiIHN0cm9rZS13aWR0aD0iMi42NjY2NyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0yLjY2NjUgMTAuNjY2N0gyMy45OTk4VjIyLjY2NjdDMjMuOTk5OCAyNC4wODEyIDIzLjQzNzkgMjUuNDM3OCAyMi40Mzc3IDI2LjQzOEMyMS40Mzc1IDI3LjQzODIgMjAuMDgxIDI4LjAwMDEgMTguNjY2NSAyOC4wMDAxSDcuOTk5ODRDNi41ODUzNSAyOC4wMDAxIDUuMjI4OCAyNy40MzgyIDQuMjI4NiAyNi40MzhDMy4yMjg0MSAyNS40Mzc4IDIuNjY2NSAyNC4wODEyIDIuNjY2NSAyMi42NjY3VjEwLjY2NjdaIiBzdHJva2U9IiM0NEJBOTQiIHN0cm9rZS13aWR0aD0iMi42NjY2NyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik04IDEuMzMzNDRWNS4zMzM0NCIgc3Ryb2tlPSIjNDRCQTk0IiBzdHJva2Utd2lkdGg9IjIuNjY2NjciIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTMuMzMzIDEuMzMzNDRWNS4zMzM0NCIgc3Ryb2tlPSIjNDRCQTk0IiBzdHJva2Utd2lkdGg9IjIuNjY2NjciIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTguNjY2NSAxLjMzMzQ0VjUuMzMzNDQiIHN0cm9rZT0iIzQ0QkE5NCIgc3Ryb2tlLXdpZHRoPSIyLjY2NjY3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==", alt: "" }), i.createElement("h3", { className: "sub-heading" }, "Create healthy new meetings")), i.createElement("p", null, "Timeslot recommendations to keep you and your team in the flow."), i.createElement("p", null, "Agenda recommendations to keep your meetings productive."), i.createElement(f.z, { type: "primary", text: "Read more", size: "md", url: "https://help.aerotime.com/en/articles/5952467-creating-new-meetings-with-aerotime" }), i.createElement("div", { className: "imageContainer visible-mobile" }, i.createElement("div", { className: "mobile-image", ref: m, style: { height: 236 } }), i.createElement("img", { loading: "lazy", className: "circles", src: j, alt: "" }), i.createElement("img", { loading: "lazy", className: "path", src: v, alt: "" })))), i.createElement("div", { className: "section", ref: r }, i.createElement("div", { className: "section-data" }, i.createElement("div", { className: "section-header" }, i.createElement("img", { loading: "lazy", className: "icon", src: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE1Ljk5OTggMjkuMzMzM0MyMy4zNjM2IDI5LjMzMzMgMjkuMzMzMiAyMy4zNjM4IDI5LjMzMzIgMTZDMjkuMzMzMiA4LjYzNjIgMjMuMzYzNiAyLjY2NjY3IDE1Ljk5OTggMi42NjY2N0M4LjYzNjA0IDIuNjY2NjcgMi42NjY1IDguNjM2MiAyLjY2NjUgMTZDMi42NjY1IDIzLjM2MzggOC42MzYwNCAyOS4zMzMzIDE1Ljk5OTggMjkuMzMzM1oiIHN0cm9rZT0iIzQ0QkE5NCIgc3Ryb2tlLXdpZHRoPSIyLjY2NjY3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTEwLjY2NjUgMTguNjY2NkMxMC42NjY1IDE4LjY2NjYgMTIuNjY2NSAyMS4zMzMzIDE1Ljk5OTggMjEuMzMzM0MxOS4zMzMyIDIxLjMzMzMgMjEuMzMzMiAxOC42NjY2IDIxLjMzMzIgMTguNjY2NiIgc3Ryb2tlPSIjNDRCQTk0IiBzdHJva2Utd2lkdGg9IjIuNjY2NjciIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTIgMTEuOTk5OUgxMi4wMTI1IiBzdHJva2U9IiM0NEJBOTQiIHN0cm9rZS13aWR0aD0iMi42NjY2NyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0yMCAxMS45OTk5SDIwLjAxMjUiIHN0cm9rZT0iIzQ0QkE5NCIgc3Ryb2tlLXdpZHRoPSIyLjY2NjY3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==", alt: "" }), i.createElement("h3", { className: "sub-heading" }, "Handle incoming meetings better")), i.createElement("p", null, "Propose better timeslots for meetings that make all attendees more productive."), i.createElement("p", null, "Send quick replies that help in declining meetings with ease."), i.createElement(f.z, { type: "primary", text: "Read more", size: "md", url: "https://help.aerotime.com/en/articles/5952513-proposal-flows-handle-incoming-meetings-better" }), i.createElement("div", { className: "imageContainer visible-mobile" }, i.createElement("div", { className: "mobile-image", ref: d, style: { height: 246 } }), i.createElement("img", { loading: "lazy", className: "circles", src: j, alt: "" }), i.createElement("img", { loading: "lazy", className: "path", src: v, alt: "" }))))))
+                };
+            z.defaultProps = { lottie: null };
+            var w = M("/lottie/lottie_light.min.js", { globalName: "lottie" })(z),
+                b = function() { return i.createElement("div", { className: "metrics container" }, i.createElement("div", { className: "flex col col-7" }, i.createElement("div", { className: "col col-6" }, i.createElement("h1", { className: "display" }, "20", i.createElement("span", null, "%")), i.createElement("div", { className: "info-text" }, i.createElement("span", { className: "text" }, "Extra time generated "), "within your working hours.")), i.createElement("div", { className: "col col-6" }, i.createElement("h1", { className: "display" }, "60", i.createElement("span", null, "%")), i.createElement("div", { className: "info-text" }, i.createElement("span", { className: "text" }, "More work done per week "), "due to better prioritization"))), i.createElement("div", { className: "col col-5 text-center" }, i.createElement(c.S, { className: "cyclist", src: "../../images/stats-illustration.jpg", alt: "", loading: "lazy", __imageData: a(5172) }))) },
+                D = a(3552),
+                E = function(e) {
+                    function t(t) { var a; return (a = e.call(this, t) || this).state = { index: void 0 !== t.selectedIndex ? t.selectedIndex : -1 }, a.nodes = [], a }(0, D.Z)(t, e);
+                    var a = t.prototype;
+                    return a.UNSAFE_componentWillReceiveProps = function(e) { void 0 !== e.selectedIndex && this.state.index !== e.selectedIndex && this.toggle(e.selectedIndex) }, a.componentWillUnmount = function() { clearTimeout(this.timeout) }, a.toggle = function(e, t) {
+                        var a = this;
+                        if (clearTimeout(this.timeout), !t || (this.props.onChange && this.props.onChange(e, this.state.index !== e, this.state.index !== e ? e : -1), this.props.changeOnClick)) {
+                            if (this.state.index > -1) {
+                                var i = this.nodes[this.state.index].ref.children[1];
+                                i.style.height = i.children[0].offsetHeight + "px"
+                            }
+                            this.state.index === e || -1 === e ? setTimeout((function() { a.setState({ index: -1 }) }), 50) : setTimeout((function() { a.setState({ index: e }), a.timeout = setTimeout((function() { a.nodes[e].ref.children[1].style.height = "auto" }), a.props.transitionDuration) }), 50)
+                        }
+                    }, a.getHeight = function(e) { return e === this.state.index ? this.nodes.length > e ? this.nodes[e].ref.children[1].children[0].offsetHeight : "auto" : 0 }, a.render = function() {
+                        var e = this,
+                            t = { overflow: "hidden", transition: "height " + this.props.transitionDuration + "ms " + this.props.transitionTimingFunction },
+                            a = i.Children.map(this.props.children, (function(a, n) { return i.createElement("div", { key: n, ref: function(t) { e.nodes[n] = { ref: t } }, className: e.state.index === n ? e.props.openClassName : "" }, i.createElement("div", { className: "accordion-title", onClick: function() { return e.toggle(n, !0) }, role: "button", tabIndex: "0" }, i.createElement("img", { loading: "lazy", src: a.props["data-img"], alt: "" }), a.props["data-header"]), i.createElement("div", { className: "accordion-answer", style: Object.assign({}, t, { height: e.getHeight(n) }) }, a)) }));
+                        return i.createElement("div", { className: this.props.className }, a)
+                    }, t
+                }(i.Component);
+            E.defaultProps = { transitionDuration: 500, transitionTimingFunction: "ease", openClassName: "open", changeOnClick: !0 };
+            var h = E,
+                A = "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAyIiBoZWlnaHQ9IjUzIiB2aWV3Qm94PSIwIDAgMTAyIDUzIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8bWFzayBpZD0ibWFzazBfNTgzXzQ2OTkiIHN0eWxlPSJtYXNrLXR5cGU6YWxwaGEiIG1hc2tVbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjAiIHk9IjAiIHdpZHRoPSIxMDIiIGhlaWdodD0iNTMiPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgMEgxMDJWNTNIMFYwWiIgZmlsbD0id2hpdGUiLz4KPC9tYXNrPgo8ZyBtYXNrPSJ1cmwoI21hc2swXzU4M180Njk5KSI+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMjkuNzM1NSAzLjM3ODkxQzI5LjE3MSAzLjM3ODkxIDI4LjYxODIgMy40Njc4NSAyOC4wOTMgMy42NTA5NkMyNC4zNTE5IDQuOTQ1ODUgMjIuOTI5IDkuOTE2MTQgMjMuOTkgMTMuNTY4QzI0LjY3NiAxNS45MzQxIDI2LjE4OTEgMTguMTkzIDI4LjUwMzMgMjAuMzEzMkMzMy4yNTQ0IDE5LjExMzggMzYuOTA1MiAxNC44MjIzIDM2LjgxNzcgMTAuNTQxM0MzNi43NzE5IDguMzE2NDkgMzUuNDc1NyA2LjA1MTA5IDMzLjQzNiA0LjYyOTMzQzMyLjI1NDcgMy44MDUzIDMwLjk2NzcgMy4zNzg5MSAyOS43MzU1IDMuMzc4OTFaTTYxLjExNTMgMTUuNzU3OEM2MC42NzEgMTUuNzU3OCA2MC4yMDE5IDE1LjgzNzYgNTkuNzI3NiAxNi4wNDI5QzU3LjYyNTEgMTYuOTUyIDU2LjY2NDcgMTkuNjE2MyA1Ni44MDE5IDIxLjc3NThDNTYuOTc3IDI0LjU0MjEgNTguNTIwMiAyNy4xNDM3IDU5Ljg0NTIgMjkuMTAxN0M1OS44Njc0IDI5LjEzNDQgNTkuODg5NiAyOS4xNjg0IDU5LjkxMTggMjkuMjAxMUM2MC4zMDUxIDI5LjA1NTkgNjAuNjg1NCAyOC44OTY0IDYxLjA1MjYgMjguNzE4NUM2My45NDY5IDI3LjMxOSA2Ni42NzUyIDI0LjA2NzMgNjYuMjg5NyAyMC41NjA3QzY2LjExMzMgMTguOTU4NCA2NC45OTg3IDE3LjM0MDUgNjMuNDUwMyAxNi40MzkzQzYyLjk0MiAxNi4xNDM3IDYyLjA5MDEgMTUuNzU3OCA2MS4xMTUzIDE1Ljc1NzhaTTk4LjYzNDEgNTNDODMuMjEwMSA1MyA2Ny44ODUzIDQ1LjM2NDEgNTguNTQ5IDMzLjA3ODNDNTUuODkzOSAzMy42MTU5IDUyLjg2MjQgMzMuNjMxNiA0OS4zOTE4IDMzLjEzNTlDNDIuNzU5MSAzMi4xODYzIDM2LjI3MTQgMjkuNzcxOCAzMC42MzA1IDI2LjE1MzlDMjkuNTEzMyAyNS40MzU4IDI4LjQ4MjMgMjQuNjk2OCAyNy41NDI4IDIzLjkzNDNDMjIuNzg1MSAyNC42MDI3IDE3LjU3MDIgMjMuMzE1NiAxMi42NTMxIDIwLjIyNjJDNy44Nzk4MiAxNy4yMjU3IDQuMDk4MjggMTMuMDkxMiAwLjQ0MjE4IDkuMDk0MDZDLTAuMTg2MzM1IDguNDA2MDcgLTAuMTM5Mjk0IDcuMzM4NzcgMC41NDgwMjEgNi43MDgzM0MxLjIzNDAzIDYuMDc5MTkgMi4zMDE1OSA2LjEyNzU5IDIuOTMwMSA2LjgxNDI3QzYuNDM0NjMgMTAuNjQ2NiAxMC4wNTgxIDE0LjYwOTggMTQuNDQ1OSAxNy4zNjdDMTcuNjI2NCAxOS4zNjU2IDIxLjAwOTQgMjAuNTAwOSAyNC4xODMzIDIwLjY5MDVDMjIuNTI2NCAxOC43NDE2IDIxLjM3OTIgMTYuNjc2NCAyMC43NDkzIDE0LjUwOTFDMTkuMjMzNiA5LjI5MTU3IDIxLjM3OTIgMi40MDExOCAyNi45ODg3IDAuNDYwMTU0QzI5LjY5MSAtMC40Nzc2NjEgMzIuNzQzNCAwLjAzMjQ0NzYgMzUuMzYzMyAxLjg1ODM3QzM4LjI3MDYgMy44ODcwNCA0MC4xMTk2IDcuMTg3MDQgNDAuMTg3NSAxMC40N0M0MC4yOTQ3IDE1LjYwNTEgMzYuNzU0OSAyMC41NTA2IDMxLjY1NjIgMjIuNzg3MkMzMS45MTQ5IDIyLjk2MjUgMzIuMTgwMiAyMy4xMzY0IDMyLjQ0OTQgMjMuMzEwNEMzNy42ODc5IDI2LjY3MDYgNDMuNzExNyAyOC45MTI0IDQ5Ljg3MDEgMjkuNzk0QzUyLjMwOTYgMzAuMTQzMiA1NC40NzYxIDMwLjIxMzkgNTYuMzk5NiAyOS45OTkzQzU1LjAxOTcgMjcuODIwMyA1My42MzMzIDI1LjA3ODggNTMuNDM3MyAyMS45OTA2QzUzLjE4NTEgMTguMDM1MyA1NS4yMjIyIDE0LjMxNTUgNTguMzkwOSAxMi45NDQ3QzYwLjQ5MjEgMTIuMDM1NyA2Mi45NTM5IDEyLjI0NSA2NS4xNDY1IDEzLjUyMTVDNjcuNjI2NiAxNC45NjQyIDY5LjM0ODggMTcuNTIgNjkuNjQyOCAyMC4xOTA5QzcwLjE0MzIgMjQuNzMyMiA2Ny4yMTUgMjkuNDg5MiA2Mi41MjAxIDMxLjc1ODZDNjIuMzQ2MyAzMS44NDM2IDYyLjE2ODYgMzEuOTI0NyA2MS45OTA4IDMyLjAwMzJDNzEuMDkxOSA0My4zMjIzIDg1LjczMzMgNTAuMTQyMSAxMDAuMjUxIDQ5LjU5NEMxMDEuMTY2IDQ5LjU2NzkgMTAxLjk2NCA1MC4yODYgMTAxLjk5OSA1MS4yMTcyQzEwMi4wMzMgNTIuMTQ5OCAxMDEuMzA4IDUyLjkzMiAxMDAuMzc3IDUyLjk2ODZDOTkuNzk1OCA1Mi45ODk1IDk5LjIxNDMgNTMgOTguNjM0MSA1M1oiIGZpbGw9IiMwQjBGMjciLz4KPC9nPgo8L3N2Zz4K",
+                T = [{ id: 0, title: "Instant task capture", image: "/img/check-circle.svg", cover: "4", content: i.createElement(i.Fragment, null, i.createElement("p", null, "Global shortcuts to capture tasks anywhere and integrations with your favourite apps (like Slack) to bring tasks in one place."), i.createElement("video", { className: "video visible-mobile", autoPlay: !0, loop: !0, muted: !0, playsInline: !0, preload: "none" }, i.createElement("source", { src: "/videos/4.webm", type: "video/webm" }), i.createElement("source", { src: "/videos/4.mp4", type: "video/mp4" }))) }, { id: 1, title: "Plan and schedule tasks in one drag", image: "/img/calender-icon.svg", cover: "5", content: i.createElement(i.Fragment, null, i.createElement("p", null, "Prioritize and commit to your important tasks by scheduling them on your calendar.", i.createElement("br", null), " "), i.createElement("video", { className: "video visible-mobile", autoPlay: !0, loop: !0, muted: !0, playsInline: !0, preload: "none" }, i.createElement("source", { src: "/videos/5.webm", type: "video/webm" }), i.createElement("source", { src: "/videos/5.mp4", type: "video/mp4" }))) }, { id: 2, title: "Simplify balance of collaboration and deep work", image: "/img/headphones.svg", cover: "6", content: i.createElement(i.Fragment, null, i.createElement("p", null, "Aerotime keeps your calendar available for meetings even when tasks are there, but when you hit a busy threshold it shields your time."), i.createElement("video", { className: "video visible-mobile", autoPlay: !0, loop: !0, muted: !0, playsInline: !0, preload: "none" }, i.createElement("source", { src: "/videos/6.webm", type: "video/webm" }), i.createElement("source", { src: "/videos/6.mp4", type: "video/mp4" }))) }],
+                x = function(e) {
+                    var t = e.lottie,
+                        a = (0, i.useRef)([]),
+                        n = (0, i.useRef)(),
+                        r = N("(max-width: 900px)"),
+                        c = (0, i.useState)(2),
+                        s = c[0],
+                        o = c[1],
+                        l = (0, i.useState)(!1),
+                        m = l[0],
+                        d = l[1],
+                        u = (0, i.useCallback)((function() { o((function(e) { return 2 === e ? 0 : e + 1 })) }), []);
+                    (0, i.useEffect)((function() { if (m) { var e = setTimeout((function() { u() }), [12e3, 7e3, 9e3][s]); return function() { clearInterval(e) } } }), [u, s, m]), (0, i.useEffect)((function() {
+                        function e() {
+                            var t, a, i, n, r, c, s, l;
+                            (window.pageYOffset > (null === (t = M.current) || void 0 === t ? void 0 : t.offsetTop) - (null === (a = M.current) || void 0 === a ? void 0 : a.offsetHeight) / 1.8 && window.innerWidth > 1599 || window.pageYOffset > (null === (i = M.current) || void 0 === i ? void 0 : i.offsetTop) - (null === (n = M.current) || void 0 === n ? void 0 : n.offsetHeight) / 2.5 && window.innerWidth > 990 || window.pageYOffset > (null === (r = M.current) || void 0 === r ? void 0 : r.offsetTop) - (null === (c = M.current) || void 0 === c ? void 0 : c.offsetHeight) / 1.2 && window.innerWidth > 600 || window.pageYOffset > (null === (s = M.current) || void 0 === s ? void 0 : s.offsetTop) - (null === (l = M.current) || void 0 === l ? void 0 : l.offsetHeight) / 2.5) && (console.log(0), o(0), d(!0), window.removeEventListener("scroll", e))
+                        }
+                        return window.addEventListener("scroll", e),
+                            function() { window.removeEventListener("scroll", e) }
+                    }), []);
+                    var g = y(),
+                        M = g[0],
+                        I = g[1],
+                        p = (0, i.useState)(!1),
+                        z = p[0],
+                        w = p[1];
+                    return (0, i.useEffect)((function() { I && w(I) }), [I]), (0, i.useEffect)((function() {
+                        if (t && z) {
+                            var e = window.lottie.loadAnimation({ container: r ? a.current[3] : a.current[0], path: "/lottie/4.json", autoplay: !0, loop: !0, renderer: "svg" }),
+                                i = window.lottie.loadAnimation({ container: r ? a.current[4] : a.current[1], path: "/lottie/5.json", autoplay: !1, loop: !0, renderer: "svg" }),
+                                c = window.lottie.loadAnimation({ container: r ? a.current[5] : a.current[2], path: "/lottie/6.json", autoplay: !1, loop: !0, renderer: "svg" });
+                            return n.current = [e, i, c],
+                                function() { e.destroy(), i.destroy(), c.destroy() }
+                        }
+                    }), [t, r, z]), (0, i.useEffect)((function() {
+                        var e, t = [];
+                        return null == n || null === (e = n.current) || void 0 === e || e.forEach((function(e, a) { a !== s && (t[a] = setTimeout((function() { e.stop() }), 1e3)) })), n.current && n.current[s].play(),
+                            function() { t.forEach((function(e) { return clearTimeout(e) })) }
+                    }), [s, n]), i.createElement("div", { className: "tasks relative", id: "centralize", ref: M }, i.createElement("img", { loading: "lazy", src: "/img/wave-pattern-up.svg", alt: "", className: "wave-pattern wave-pattern-up" }), i.createElement("div", { className: "relative container" }, i.createElement("h1", { className: "heading" }, "Centralize and prioritize ", i.createElement("br", null), " tasks", i.createElement("span", { className: "text-gradient" }, " with ease")), i.createElement("div", { className: "flex justify-space-between" }, i.createElement("div", { className: "col col-6 accordion-section" }, i.createElement("div", { className: "help-home-accordions" }, i.createElement(h, { className: "accordion", selectedIndex: s, onChange: o }, i.createElement("div", { "data-img": "/img/check-circle.svg", "data-header": "Instant task capture" }, i.createElement("p", null, "Global shortcuts to capture tasks anywhere and integrations with your favourite apps (like Slack) to bring tasks in one place."), i.createElement("div", { className: "video visible-mobile", ref: function(e) { a.current[3] = e } })), i.createElement("div", { "data-img": "/img/calender-icon.svg", "data-header": "Plan and schedule tasks in one drag" }, i.createElement("p", null, "Prioritize and commit to your important tasks by scheduling them on your calendar.", i.createElement("br", null), " "), i.createElement("div", { className: "video visible-mobile", ref: function(e) { a.current[4] = e } })), i.createElement("div", { "data-img": "/img/headphones.svg", "data-header": "Simplify balance of collaboration and deep work" }, i.createElement("p", null, "Aerotime keeps your calendar available for meetings even when tasks are there, but when you hit a busy threshold it shields your time."), i.createElement("div", { className: "video visible-mobile", ref: function(e) { a.current[5] = e } })))), i.createElement("div", { className: "hidden-mobile" }, i.createElement(f.z, { size: "md", text: "Get Started", type: "primary", url: "https://app.aerotime.ai/" }))), i.createElement("div", { className: "col col-6 hidden-mobile" }, i.createElement("div", { className: "videoContainer " }, i.createElement("div", { className: "help-img" }, T.map((function(e) { var t = e.id; return i.createElement("div", { key: t, className: "video " + (t === s ? "active" : ""), ref: function(e) { a.current[t] = e } }) }))), i.createElement("img", { loading: "lazy", className: "circles", src: j, alt: "" }), i.createElement("img", { loading: "lazy", className: "path", src: v, alt: "" }))), i.createElement("img", { loading: "lazy", className: "scribble hidden-mobile", src: A, alt: "" }))), i.createElement("img", { loading: "lazy", src: "/img/wave-pattern-up.svg", alt: "", className: "wave-pattern wave-pattern-up" }))
+                };
+            x.defaultProps = { lottie: null };
+            var S = M("/lottie/lottie_light.min.js", { globalName: "lottie" })(x),
+                L = function(e) {
+                    var t = e.lottie,
+                        n = (0, i.useRef)(),
+                        r = y(),
+                        s = r[0],
+                        o = r[1],
+                        l = (0, i.useState)(!1),
+                        m = l[0],
+                        d = l[1];
+                    return (0, i.useEffect)((function() { o && d(o) }), [o]), (0, i.useEffect)((function() { if (t && m) { var e = window.lottie.loadAnimation({ container: n.current, path: "/lottie/spotify.json", autoplay: !0, loop: !0, renderer: "svg" }); return function() { e.destroy() } } return function() {} }), [t, m]), i.createElement("div", { className: "focus", id: "zone", ref: s }, i.createElement("div", { className: "focus-top container" }, i.createElement("div", { className: "col col-6 text-center" }, i.createElement(c.S, { src: "../../images/meditate.jpg", alt: "", className: "meditate", loading: "lazy", __imageData: a(8281) })), i.createElement("div", { className: "focus-content col col-6 flex flex-col justify-center" }, i.createElement("h2", { className: "text-gradient" }, "Be in the zone."), i.createElement("h2", null, "Stay focused with ease."), i.createElement("img", { loading: "lazy", className: "arrow hidden-mobile", src: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTE2IiBoZWlnaHQ9IjExNiIgdmlld0JveD0iMCAwIDExNiAxMTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0yIDIuNjIyOTNDNTUuODAxOCAtMy41NDc4NyA5NS4zNTgxIDM3LjY1OSA3OS40OTk4IDU4LjU2MjNDNjMuNjQxNSA3OS40NjU2IDQ2LjA0ODcgNTAuNjg5OSA2Ni41MDYgNDguODg4NkM4Ni45NjMzIDQ3LjA4NzQgMTE1LjQ3MiA4Mi42NjcyIDk1Ljc2MDUgMTEzLjA4NCIgc3Ryb2tlPSIjMEIwRjI3IiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNOTEuOTI1OCA5NS4yNjc2TDk1LjU3OTIgMTE0TDExMy41NDkgMTAwLjQxNiIgc3Ryb2tlPSIjMEIwRjI3IiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K", alt: "" }))), i.createElement("div", { className: "cards container" }, i.createElement("a", { href: "https://help.aerotime.com/en/articles/5953545-slack-aerotime", className: "hover-card col col-4", target: "_blank", rel: "noopener noreferrer" }, i.createElement("div", null, i.createElement("h2", { className: "title" }, "Snooze distractions"), i.createElement("div", { className: "content" }, i.createElement("p", null, "Configure Slack to snooze notifications when you're in focus"), i.createElement("p", null, "Your team will know what you're busy with (based on your privacy settings)."))), i.createElement("div", { className: "image-wrap justify-center" }, i.createElement("div", { className: "first-image" }, i.createElement(c.S, { className: "focus-distractions", src: "../../images/focus-distractions.png", alt: "", loading: "lazy", __imageData: a(440) }), i.createElement("img", { loading: "lazy", className: "focus-slack", src: "/img/slack.svg", alt: "" }), i.createElement("img", { loading: "lazy", className: "in-focus-time", src: "/img/in-focus-time.svg", alt: "" })))), i.createElement("a", { href: "https://help.aerotime.com/en/articles/5953562-focus-time-shield-your-time-for-what-s-important", className: "hover-card col col-4", target: "_blank", rel: "noopener noreferrer" }, i.createElement("div", null, i.createElement("h2", { className: "title" }, "Proactive focus blocks"), i.createElement("div", { className: "content" }, i.createElement("p", null, "Block preferred timeslots in advance to keep your calendar available for deep work."))), i.createElement("div", { className: "image-wrap justify-flex-end second-image" }, i.createElement("img", { loading: "lazy", src: "/img/focus-time.svg", alt: "" }))), i.createElement("a", { href: "https://help.aerotime.com/en/articles/5953573-focus-music-minimize-internal-distractions", className: "hover-card col col-4", target: "_blank", rel: "noopener noreferrer" }, i.createElement("div", null, i.createElement("h2", { className: "title" }, "Focus Music"), i.createElement("div", { className: "content" }, i.createElement("p", null, "Fresh playlists every week for different tasks."), i.createElement("p", null, "Lyric-free music for deep work and the latest coffee shop music for everything else."))), i.createElement("div", { className: "image-wrap justify-flex-end" }, i.createElement("div", { className: "spotify", ref: n })))))
+                };
+            L.defaultProps = { lottie: null };
+            var k = M("/lottie/lottie_light.min.js", { globalName: "lottie" })(L),
+                O = function() { return i.createElement("div", { className: "info container flex justify-center text-center" }, i.createElement("div", { className: "col col-6" }, i.createElement("h1", null, "Manage your time effectively, easily."), i.createElement("p", null, "Declutter, prioritize, zone-in. Repeat."), i.createElement(f.z, { size: "xl", text: "Get Started", type: "primary", url: "https://app.aerotime.ai/" }))) },
+                C = a(5444),
+                Y = function(e) {
+                    var t = e.name,
+                        a = e.title,
+                        n = e.text,
+                        r = void 0 === n ? "" : n,
+                        c = e.image,
+                        s = e.video,
+                        o = e.videoThumb,
+                        l = e.toggleModal;
+                    return i.createElement("div", { className: "carousel-item flex flex-col justify-space-between rounded " + (s ? "video-item" : " ") }, s ? i.createElement("img", { loading: "lazy", src: o, className: "video", alt: "" }) : i.createElement("p", { className: "text" }, r), s && i.createElement("button", { type: "button", onClick: function() { return l(s) } }, i.createElement("img", { loading: "lazy", src: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzkiIGhlaWdodD0iNjEiIHZpZXdCb3g9IjAgMCA3OSA2MSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPG1hc2sgaWQ9Im1hc2swXzI4NF83NTk3IiBzdHlsZT0ibWFzay10eXBlOmFscGhhIiBtYXNrVW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4PSIwIiB5PSIwIiB3aWR0aD0iNzkiIGhlaWdodD0iNjEiPgo8cGF0aCBvcGFjaXR5PSIwLjk1IiBkPSJNNDYuNTAwNSA2MC4wMDAyQzY1LjAwMiA2MC4wMDAyIDczLjQzIDUwLjM0MjMgNzguMDU5MSAzMC4zNjQ2QzgyLjY4ODIgMTAuMzg2OSA2NS4wMDIgMC43MjkwMDQgNDYuNTAwNSAwLjcyOTAwNEMyNy45OTg5IDAuNzI5MDA0IDAuODQzNzUgNy45OTg2NiAwLjg0Mzc1IDI2LjUwMDJDMC44NDM3NSA0NS4wMDE3IDI3Ljk5ODkgNjAuMDAwMiA0Ni41MDA1IDYwLjAwMDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L21hc2s+CjxnIG1hc2s9InVybCgjbWFzazBfMjg0Xzc1OTcpIj4KPHBhdGggZD0iTTQ2LjUwMDUgNjAuMDAwMkM2NS4wMDIgNjAuMDAwMiA3My40MyA1MC4zNDIzIDc4LjA1OTEgMzAuMzY0NkM4Mi42ODgyIDEwLjM4NjkgNjUuMDAyIDAuNzI5MDA0IDQ2LjUwMDUgMC43MjkwMDRDMjcuOTk4OSAwLjcyOTAwNCAwLjg0Mzc1IDcuOTk4NjYgMC44NDM3NSAyNi41MDAyQzAuODQzNzUgNDUuMDAxNyAyNy45OTg5IDYwLjAwMDIgNDYuNTAwNSA2MC4wMDAyWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0zNS40NTMxIDIxLjIxMDRWMzcuMjUyQzM1LjQ1MzEgMzcuODA0MiAzNS45MDA4IDM4LjI1MiAzNi40NTMxIDM4LjI1MkMzNi42NTMxIDM4LjI1MiAzNi44NDg1IDM4LjE5MiAzNy4wMTQxIDM4LjA3OThMNDkuODI1OSAyOS4zOTgxQzUwLjI4MzEgMjkuMDg4MyA1MC40MDI2IDI4LjQ2NjUgNTAuMDkyOCAyOC4wMDkzQzUwLjAwNzUgMjcuODgzNSA0OS44OTQ4IDI3Ljc3ODggNDkuNzYzIDI3LjcwMzFMMzYuOTUxMiAyMC4zNDMzQzM2LjQ3MjQgMjAuMDY4MiAzNS44NjExIDIwLjIzMzQgMzUuNTg2IDIwLjcxMjNDMzUuNDk4OSAyMC44NjM4IDM1LjQ1MzEgMjEuMDM1NiAzNS40NTMxIDIxLjIxMDRaIiBmaWxsPSJibGFjayIvPgo8L2c+Cjwvc3ZnPgo=", className: "play-btn", alt: "" })), i.createElement("div", { className: "person flex " + (s ? "is-video" : " ") }, c && i.createElement("img", { loading: "lazy", src: c, className: "image", alt: "" }), i.createElement("div", { className: "details" }, i.createElement("p", { className: "name" }, t), i.createElement("div", { className: "title" }, a))))
+                },
+                Q = function(e) {
+                    var t = e.modal,
+                        a = e.toggleModal,
+                        n = (0, i.useRef)(),
+                        r = (0, i.useCallback)((function(e) { "Escape" === e.key && a("") }), []);
+                    return (0, i.useEffect)((function() {
+                        if (t) return window.addEventListener("keydown", r),
+                            function() { window.removeEventListener("keydown", r) }
+                    }), [t]), i.createElement("div", { className: "modal " + (t ? "modal-open" : "") }, i.createElement("button", { type: "button", onClick: function() { return a("") }, className: "close-btn" }), i.createElement("div", { className: "inner-modal" }, t ? i.createElement(i.Fragment, null, i.createElement("video", { ref: n, src: t, autoPlay: !0, controls: !0, playsInline: !0 })) : ""))
+                },
+                P = a.p + "static/isha-patel-5989b9cda581e7caa9ef3662972ed183.jpg",
+                U = a.p + "static/pulkit-narwani-3830e93fd6949e501448dfcab8bfdac6.jpg",
+                Z = function() {
+                    var e = (0, i.useState)(""),
+                        t = e[0],
+                        n = e[1],
+                        r = (0, i.useCallback)((function(e) { n((function(t) { return e === t ? "" : e })) }), []);
+                    return (0, i.useEffect)((function() { document.querySelector("body").classList.toggle("overflow-hidden", t) }), [t]), (0, i.useEffect)((function() {
+                        var e = { container: ".my-slider", items: 1.2, gutter: 15, loop: !1, mouseDrag: !0, controls: !1, navPosition: "bottom", preventScrollOnTouch: "auto", responsive: { 767: { items: 2, controls: !1, nav: !0 }, 900: { items: 3, controls: !1, nav: !0 }, 1200: { items: 3, controls: !0, nav: !1 } } };
+                        a.e(31).then(a.bind(a, 4031)).then((function(t) {
+                            (0, t.tns)(e)
+                        }))
+                    }), []), i.createElement(i.Fragment, null, i.createElement(Q, { modal: t, toggleModal: r }), i.createElement("div", { className: "carousel" }, i.createElement("div", { className: "my-slider inner-div equal-height" }, i.createElement("div", null, i.createElement(Y, { name: "Isha Patel", title: "Co-founder, Kale", video: "/videos/isha-patel.mp4", videoThumb: P, image: "/img/isha-patel-thumb.jpg", toggleModal: r })), i.createElement("div", null, i.createElement(Y, { name: "Yamini Sharma", title: "Product Marketing Lead at Jupiter", image: "/img/yamini-sharma.jpg", text: "Busyness gives you myopia. If you’re not careful, you can keep prioritizing reactive work and meetings. Aerotime consistently reminds me to work on big problems by moving meetings around and creating chunks of focus time." })), i.createElement("div", null, i.createElement(Y, { name: "Pulkit Narwani", title: "Software Engineer, Coinbase", video: "/videos/pulkit-narwani.mp4", videoThumb: U, image: "/img/pulkit-narwani-thumb.jpg", toggleModal: r })), i.createElement("div", null, i.createElement(Y, { name: "Ali Abramovitz", title: "Co-Founder of Chorus Meditation", image: "/img/ali-abramovitz.jpg", text: "Aerotime has improved my productivity by allowing me longer time to focus on one task at a time. I don’t have to worry about checking when my next call is and if I’ll be late because I know it isn’t tor a few hours so I can peacefully focus." })), i.createElement("div", null, i.createElement(Y, { name: "Gopal Venkatesan", title: "Sr Staff Software Engineer at LinkedIn", image: "/img/gopal-venkatesan.jpeg", text: "In a horizontal role, getting bigger chunks of continuous focus times is a luxury. Aerotime does exactly that by scheduling or moving meetings in a way that cuts down context switching and small unusable blocks between meetings." })), i.createElement("div", null, i.createElement(Y, { name: "Abhishek Kankani", title: "CEO at Dyte", image: "/img/abhishek-kankani.jpg", text: "As a founder the most important thing for me is to be in control of my own time and minimize context switching. Aerotime has helped me achieve this and also helped carve out time for me to purely focus on myself. Love the product!" })))))
+                },
+                H = function() { return i.createElement("div", { className: "testimonials container" }, i.createElement("div", { className: "wrapper hidden" }, i.createElement("div", { className: "case-study rounded" }, i.createElement(C.Link, { className: "link", to: "/" }, "Read the case study ", i.createElement("img", { loading: "lazy", src: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMuMzMyMDMgMTAuMDAwMkgxNi42NjU0IiBzdHJva2U9IiMwQjBGMjciIHN0cm9rZS13aWR0aD0iMS42IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggZD0iTTEwLjgzMiA0LjE2Njg3TDE2LjY2NTQgMTAuMDAwMkwxMC44MzIgMTUuODMzNSIgc3Ryb2tlPSIjMEIwRjI3IiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=", alt: "" }))), i.createElement("div", { className: "asana rounded" }, i.createElement("img", { loading: "lazy", src: "/img/asana.png", className: "asana-logo", alt: "" }), i.createElement("p", { className: "text" }, "This is Gem I really love it. If you know Project Huddle, you shouldn't let it go! This tool is fast for collecting, managing, and previewing design feedback on live websites."), i.createElement("p", { className: "name" }, "Mario Cummings"), i.createElement("p", { className: "title" }, "Brand Design Manager at IBM"))), i.createElement(Z, null)) },
+                G = function(e) {
+                    var t = e.name,
+                        a = e.description,
+                        n = e.image,
+                        r = e.comingSoon;
+                    return i.createElement("div", { className: "tool flex rounded" }, i.createElement("img", { loading: "lazy", src: n, alt: "" }), i.createElement("div", { className: "details" }, i.createElement("div", { className: "flex align-center" }, i.createElement("h2", { className: "name" }, t), r && i.createElement("span", { className: "coming-soon" }, "Coming Soon")), i.createElement("p", { className: "description" }, a)))
+                },
+                R = function() { return i.createElement("div", { className: "tools relative" }, i.createElement("div", { className: "relative container" }, i.createElement("h1", { className: "heading" }, "Connect with your ", i.createElement("span", { className: "text-gradient" }, "favorite tools")), i.createElement("p", { className: "sub-heading" }, "Status updates and task integrations with tools you love and use"), i.createElement("div", { className: "grid" }, i.createElement(G, { name: "Slack", description: "Auto-snooze Slack and update status based on your calendar. Create tasks right within Slack.", image: "/img/slack-icon.svg" }), i.createElement(G, { name: "Gmail", description: "Convert any email into a task and schedule to reply on time.", image: "/img/gmail.svg" }), i.createElement(G, { name: "Asana", comingSoon: !0, description: "Convert Asana tickets to Aerotime tasks. Schedule them with ease.", image: "/img/asana-logo.svg" }), i.createElement(G, { name: "Jira", comingSoon: !0, description: "Convert issues into tasks in Aerotime. Schedule them with ease and keep the team in alignment.", image: "/img/jira.svg" })), i.createElement("div", { className: "wrap-btn" }, i.createElement(f.z, { size: "lg", text: "Explore Integrations", type: "primary", url: "https://help.aerotime.com/en/articles/6012733-existing-upcoming-integrations" })), i.createElement("img", { loading: "lazy", className: "scribble", src: A, alt: "" }))) },
+                W = function(e) {
+                    var t = e.posts,
+                        n = void 0 === t ? [] : t;
+                    return (0, i.useEffect)((function() {
+                        var e = { container: ".my-slider1", items: 1.2, gutter: 15, loop: !1, mouseDrag: !0, controls: !1, navPosition: "bottom", preventScrollOnTouch: "auto", responsive: { 767: { items: 2, controls: !1, nav: !0 }, 900: { items: 3, controls: !1, nav: !0 } } };
+                        a.e(31).then(a.bind(a, 4031)).then((function(t) {
+                            (0, t.tns)(e)
+                        }))
+                    }), []), i.createElement("div", { className: "articles container" }, i.createElement("div", { className: "flex justify-space-between align-center" }, i.createElement("h1", { className: "heading" }, "Posts from Aerotime")), i.createElement("div", { className: "articleBox" }, i.createElement("div", { className: "my-slider1" }, n.map((function(e) { var t = e.node; return i.createElement("div", null, i.createElement("a", { key: t.id, href: t.url, className: "article" }, i.createElement("div", { className: "article-img" }, i.createElement("img", { loading: "lazy", className: "image", src: (null == t ? void 0 : t.og_image) || (null == t ? void 0 : t.feature_image), alt: t.title })), i.createElement("p", { className: "title" }, t.title))) })))))
+                },
+                B = function() { return i.createElement("div", { className: "cta container text-center" }, i.createElement(c.S, { className: "fly hidden-mobile", src: "../../images/footer-illustration.jpg", alt: "", loading: "lazy", __imageData: a(2837) }), i.createElement(c.S, { className: "fly visible-mobile", src: "../../images/footer-illustration-mob.jpg", alt: "", loading: "lazy", __imageData: a(4918) }), i.createElement("div", { className: "wrap" }, i.createElement("h1", { className: "title text-gradient" }, "Declutter, prioritize, zone-in."), i.createElement("h1", null, "Repeat.")), i.createElement(f.z, { text: "Get started with Aerotime", size: "lg", type: "primary", url: "https://app.aerotime.ai/" })) },
+                J = function(e) { var t = e.data.allGhostPost.edges; return i.createElement(n.Z, null, i.createElement(r.Z, { title: "Aerotime - Be Effective, Not Busy" }), i.createElement(p, null), i.createElement(w, null), i.createElement(b, null), i.createElement(S, null), i.createElement(k, null), i.createElement(O, null), i.createElement(H, null), i.createElement(R, null), i.createElement(W, { posts: t }), i.createElement(B, null)) }
+        }
+    }
+]);
+//# sourceMappingURL=component---src-pages-index-js-c4d2c96a9784f9584609.js.map

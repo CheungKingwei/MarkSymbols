@@ -475,6 +475,7 @@ button:hover {
     bottom: 40px;
     z-index: 300;
     max-width: 240px;
+    filter: drop-shadow(0 20px 17px rgba(254, 178, 2, .3));
 }
 
 .Hero_iconWrapper__DFF6G {
@@ -492,7 +493,7 @@ button:hover {
 .Hero_appIcon__qNQkp {
     position: absolute;
     z-index: 0;
-    filter: drop-shadow(0 20px 17px rgba(0, 57, 133, .3))
+    filter: drop-shadow(0 20px 17px rgba(254, 178, 2, .3))
 }
 
 .Hero_appIcon__qNQkp.Hero_framer__pA_g_ {
@@ -1103,7 +1104,7 @@ button:hover {
 
 .Previously_history__OlaVV {
     /* background: #fafafa; */
-    background: linear-gradient(180deg, #ffffff, #fafafa);
+    background: linear-gradient(180deg, #ffffff00, #fafafa);
     padding: 140px 0;
     width: 100vw;
     overflow: hidden
@@ -1272,4 +1273,9 @@ button:hover {
 .index_page__r8Aeo {
     max-width: 100vw;
     overflow: hidden
+}
+
+.bgdot {
+    background-image: url(img/dot.svg);
+    background-position: 2px 2px;
 }

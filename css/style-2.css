@@ -45,7 +45,7 @@
 
 @media screen and (max-width:1280px) {
     .Content_content__enY_u {
-        margin: 40px 40px
+        margin: 0px 40px
     }
 }
 
@@ -135,7 +135,7 @@
 @media screen and (max-width:1023px) {
     .Grid_grid__tdbxd {
         grid-template-columns: 1fr;
-        grid-gap: 30px
+        grid-gap: 40px
     }
     .Grid_grid__tdbxd .Grid_right__YOxK5 {
         grid-area: 1/1/span 1/span 1
@@ -310,8 +310,8 @@
 
 .Navigation_list__7f_cF li {
     transition: opacity .2s ease;
-    margin-left: 10px;
-    font-size: 15px
+    margin-left: 40px;
+    font-size: 15px;
 }
 
 .Navigation_list__7f_cF li a {
@@ -344,7 +344,7 @@
 
 .Navigation_list__7f_cF li a.Navigation_textLink__z5fWv {
     width: auto;
-    padding: 0 10px;
+    /* padding: 0 10px; */
     font-size: 14px;
     line-height: 1;
     font-weight: 600
@@ -366,6 +366,9 @@
 @media screen and (max-width:374px) {
     .Navigation_hideMobile__qXjVt {
         display: none
+    }
+    .Navigation_list__7f_cF li {
+        margin-left: 20px;
     }
 }
 
@@ -475,7 +478,7 @@ button:hover {
     bottom: 40px;
     z-index: 300;
     max-width: 240px;
-    filter: drop-shadow(0 20px 17px rgba(254, 178, 2, .3));
+    /* filter: drop-shadow(0 20px 17px rgba(254, 178, 2, .3)); */
 }
 
 .Hero_iconWrapper__DFF6G {
@@ -493,7 +496,7 @@ button:hover {
 .Hero_appIcon__qNQkp {
     position: absolute;
     z-index: 0;
-    filter: drop-shadow(0 20px 17px rgba(254, 178, 2, .3))
+    filter: drop-shadow(0 20px 17px rgba(0, 0, 0, .05))
 }
 
 .Hero_appIcon__qNQkp.Hero_framer__pA_g_ {
@@ -507,7 +510,7 @@ button:hover {
     left: -40px;
     bottom: 80px;
     transform: rotate(-8deg);
-    max-width: 240px;
+    max-width: 400px;
 }
 
 @media screen and (max-width:1280px) {
@@ -528,6 +531,9 @@ button:hover {
     .Hero_cursor__QOxjm {
         bottom: 50px
     }
+    .Grid_grid__tdbxd {
+        margin: 40px auto;
+    }
 }
 
 @media screen and (max-width:599px) {
@@ -543,15 +549,17 @@ button:hover {
         height: calc(100% + 90px)
     }
     .Hero_appIcon__qNQkp {
-        filter: drop-shadow(0 15px 14px rgba(0, 57, 133, .3))
+        filter: drop-shadow(0 15px 14px rgba(0, 0, 0, .05))
     }
     .Hero_appIcon__qNQkp.Hero_framer__pA_g_ {
-        right: -30px;
-        top: -30px
+        right: -40px;
+        top: 80px;
+        width: 40%;
     }
     .Hero_appIcon__qNQkp.Hero_blendle___zyH0 {
         left: 0;
-        bottom: 60px
+        /* bottom: 60px; */
+        width: 40%;
     }
 }
 
@@ -1129,13 +1137,14 @@ button:hover {
 .Previously_visual__7dzOz .Previously_artboardWrapper__2rI2m {
     position: absolute;
     z-index: 2;
-    top: 113px;
-    left: 50%;
+    top: 285px;
+    right: -20px;
+    left: 72.5%;
     margin-left: -156px
 }
 
 .Previously_visual__7dzOz .Previously_artboard__r1xG_ {
-    border-radius: 20px;
+    border-radius: 5px;
     overflow: hidden;
     box-shadow: 0 20px 50px rgba(0, 0, 0, .1)
 }
@@ -1153,11 +1162,11 @@ button:hover {
         margin: 80px 40px
     }
     .Previously_visual__7dzOz .Previously_artboardWrapper__2rI2m {
-        top: 84px;
+        top: 32%;
         margin-left: -12vw
     }
     .Previously_visual__7dzOz .Previously_artboard__r1xG_ {
-        width: 24vw
+        /* width: 24vw */
     }
 }
 
@@ -1169,10 +1178,10 @@ button:hover {
         margin: 60px auto
     }
     .Previously_visual__7dzOz .Previously_artboardWrapper__2rI2m {
-        top: 70px
+        top: 30%
     }
     .Previously_visual__7dzOz .Previously_artboard__r1xG_ {
-        border-radius: 12px
+        /* border-radius: 12px */
     }
 }
 
@@ -1182,7 +1191,7 @@ button:hover {
         width: calc(100% - 40px)
     }
     .Previously_visual__7dzOz .Previously_artboardWrapper__2rI2m {
-        top: 8vw
+        top: 22%
     }
 }
 
@@ -1194,10 +1203,10 @@ button:hover {
         margin: 40px auto
     }
     .Previously_visual__7dzOz .Previously_artboardWrapper__2rI2m {
-        top: 4vw
+        top: 6%
     }
     .Previously_visual__7dzOz .Previously_artboard__r1xG_ {
-        border-radius: 8px
+        /* border-radius: 8px */
     }
 }
 
@@ -1266,7 +1275,7 @@ button:hover {
         padding: 80px 0
     }
     .Timeline_list__NDwKL {
-        padding-top: 30px
+        /* padding-top: 30px */
     }
 }
 

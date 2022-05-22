@@ -164,6 +164,9 @@ h2+p {
     h1 a:hover svg {
         transform: scale(.9) translateX(0)
     }
+    h4 {
+        font-size: 18px;
+    }
 }
 
 @media screen and (max-width:924px) {
@@ -196,6 +199,9 @@ h2+p {
     }
     h2 {
         font-size: 36px
+    }
+    h4 {
+        font-size: 16px;
     }
 }
 

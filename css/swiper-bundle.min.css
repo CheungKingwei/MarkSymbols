@@ -725,6 +725,8 @@ button.swiper-pagination-bullet {
 
 .swiper.cc-swiper1 {
     aspect-ratio: 64 / 37;
+    box-shadow: 0 20px 80px rgba(0, 0, 0, .1);
+    border-radius: 10px;
 }
 
 .swiper.cc-swiper2 {
@@ -842,7 +844,7 @@ video {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    border-radius: 10px;
+    /* border-radius: 10px; */
 }
 
 .tabs_tab-link-purple {
@@ -880,4 +882,34 @@ video {
     margin: 10px auto;
     opacity: 0.85;
     color: #666;
+}
+
+@media screen and (max-width:767px) {
+    .tabs_tab-link-purple {
+        padding: 14px 20px;
+    }
+    .section-1_title-links-wrapper {
+        margin-bottom: 30px;
+    }
+    .section-1 {
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width:599px) {
+    .tabs_tab-link-purple {
+        padding: 14px 10px;
+    }
+    .tabs_tab-link-purple h4 {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width:374px) {
+    .tabs_tab-link-purple {
+        padding: 14px 8px;
+    }
+    .tabs_tab-link-purple h4 {
+        font-size: 12px;
+    }
 }

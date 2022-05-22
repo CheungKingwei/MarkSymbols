@@ -1,49 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="500px" height="178px" viewBox="0 0 500 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>icon-1</title>
-    <defs>
-        <path d="M67.3019865,-2.71908081e-15 L142.698014,2.71908081e-15 C166.10038,-1.57986425e-15 174.586644,2.43667229 183.1422,7.01223347 C191.697755,11.5877947 198.412205,18.3022447 202.987767,26.8578003 C207.563328,35.4133558 210,43.8996196 210,67.3019865 L210,142.698014 C210,166.10038 207.563328,174.586644 202.987767,183.1422 C198.412205,191.697755 191.697755,198.412205 183.1422,202.987767 C174.586644,207.563328 166.10038,210 142.698014,210 L67.3019865,210 C43.8996196,210 35.4133558,207.563328 26.8578003,202.987767 C18.3022447,198.412205 11.5877947,191.697755 7.01223347,183.1422 C2.43667229,174.586644 1.05324284e-15,166.10038 -1.81272054e-15,142.698014 L1.81272054e-15,67.3019865 C-1.05324284e-15,43.8996196 2.43667229,35.4133558 7.01223347,26.8578003 C11.5877947,18.3022447 18.3022447,11.5877947 26.8578003,7.01223347 C35.4133558,2.43667229 43.8996196,1.57986425e-15 67.3019865,-2.71908081e-15 Z" id="path-1"></path>
-        <circle id="path-3" cx="122.71875" cy="122.71875" r="53.15625"></circle>
-        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="106.3125" height="106.3125" fill="white">
-            <use xlink:href="#path-3"></use>
-        </mask>
-        <circle id="path-5" cx="53.15625" cy="-17.71875" r="53.15625"></circle>
-        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="106.3125" height="106.3125" fill="white">
-            <use xlink:href="#path-5"></use>
-        </mask>
-    </defs>
-    <g id="icon-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组-2" transform="translate(23.000000, 23.000000)">
-            <mask id="mask-2" fill="white">
-                <use xlink:href="#path-1"></use>
-            </mask>
-            <use id="Gradient" fill="#FEB202" xlink:href="#path-1"></use>
-            <rect id="Gradient" fill="#FEB202" mask="url(#mask-2)" x="0" y="0" width="210" height="210"></rect>
-            <path d="M0,70.21875 L210,70.21875 M0,34.78125 L210,34.78125 M0,176.53125 L210,176.53125 M0,141.09375 L210,141.09375 M0,105.65625 L210,105.65625" id="Dashed-Lines" stroke="#FFFFFF" stroke-width="1.3125" opacity="0.200000003" stroke-linecap="square" mask="url(#mask-2)"></path>
-            <path d="M0.65625,69.5625 L210.65625,69.5625 M0.65625,34.125 L210.65625,34.125 M0.65625,175.875 L210.65625,175.875 M0.65625,140.4375 L210.65625,140.4375 M0.65625,105 L210.65625,105" id="Dashed-Lines" stroke="#FFFFFF" stroke-width="1.3125" opacity="0.200000003" stroke-linecap="square" mask="url(#mask-2)" transform="translate(105.656250, 105.000000) rotate(90.000000) translate(-105.656250, -105.000000) "></path>
-            <path d="M123.375,69.5625 L212.625,69.5625 L212.625,69.5625 L212.625,212.625 L69.5625,212.625 L69.5625,123.375 C69.5625,93.6551769 93.6551769,69.5625 123.375,69.5625 Z" id="Outline" fill="#FFFFFF" opacity="0.300000012" mask="url(#mask-2)"></path>
-            <path d="M53.8125,-103.6875 L213.9375,-103.6875 L213.9375,-103.6875 L213.9375,35.4375 L0,35.4375 L0,-49.875 C-3.63962862e-15,-79.5948231 24.0926769,-103.6875 53.8125,-103.6875 Z" id="Outline" fill="#FFFFFF" opacity="0.300000012" mask="url(#mask-2)" transform="translate(106.968750, -34.125000) scale(1, -1) translate(-106.968750, 34.125000) "></path>
-            <g id="椭圆形" opacity="0.300000012" stroke-dasharray="3.9375" mask="url(#mask-2)" stroke="#FFFFFF" stroke-width="2.625">
-                <use mask="url(#mask-4)" xlink:href="#path-3"></use>
-            </g>
-            <g id="椭圆形" opacity="0.300000012" stroke-dasharray="3.9375" mask="url(#mask-2)" stroke="#FFFFFF" stroke-width="2.625">
-                <use mask="url(#mask-6)" xlink:href="#path-5"></use>
-            </g>
-            <path d="M148.3125,69.5625 L148.3125,65.625 L157.4995,65.6245 L157.4995,39.3745 L148.3125,39.375 L148.3125,35.4375 L170.625,35.4375 L170.625,39.375 L161.4375,39.3745 L161.4375,65.6245 L170.625,65.625 L170.625,69.5625 L148.3125,69.5625 Z" id="形状结合" fill="#FFFFFF" mask="url(#mask-2)"></path>
-            <path d="M3.9375,173.25 L0,173.25 L0,150.9375 L3.9375,150.9375 L3.937,160.1245 L65.625,160.1245 L65.625,150.9375 L69.5625,150.9375 L69.5625,173.25 L65.625,173.25 L65.625,164.0625 L3.937,164.0625 L3.9375,173.25 Z" id="形状结合" fill="#FFFFFF" mask="url(#mask-2)"></path>
-            <path d="M24.8786607,124.889536 C25.4006298,123.938807 26.4371112,123.35097 27.4972056,123.227935 C29.5055437,122.983107 31.6779293,123.618169 33.0487196,125.156735 C34.6780087,127.004754 35.4124938,129.436881 35.9419196,131.795684 C37.4829711,129.586015 39.1321449,127.436 41.0920145,125.576796 C41.9607202,124.777686 42.8604954,123.942535 43.9926712,123.539874 C44.5432243,123.334814 45.2006568,123.482706 45.589648,123.928865 C46.3104625,124.719275 46.5080651,125.827838 46.6224011,126.85562 C46.6907542,127.781494 46.4807238,128.849045 45.6952846,129.434396 C45.1397604,129.837058 44.4313738,130.059516 43.7453573,129.984949 C43.4868583,129.828358 43.5663965,129.489078 43.5415408,129.238036 C43.5601826,128.759564 43.5216563,128.282335 43.3973779,127.818777 C42.8008418,127.823748 42.3720815,128.313405 41.9607202,128.683755 C40.0803887,130.606341 38.5716495,132.848322 37.0554536,135.057991 C37.7613547,137.613154 38.1503459,140.241641 38.8015645,142.809232 C39.0352078,143.630712 39.2651227,144.528002 39.9337402,145.113353 C40.5451897,145.648992 41.4760346,145.671362 42.1757217,145.298527 C43.4309331,144.670922 44.3170377,143.517619 45.0975058,142.386686 C45.3100217,142.032492 45.6207176,141.602489 46.0979465,141.703155 C47.013878,141.94674 47.5669166,143.065245 47.2698914,143.952593 C46.9666522,144.454677 46.5080651,144.836212 46.1377156,145.2861 C44.8464635,146.614635 43.373765,147.83132 41.6301398,148.511123 C40.5688026,148.937398 39.3583315,148.959768 38.2684103,148.63043 C37.1287778,148.256352 36.3793794,147.223599 35.9071216,146.173447 C34.7960732,143.736349 34.361099,141.070578 33.7111232,138.490559 C31.5785067,141.721796 29.4272484,144.941849 27.242435,148.138288 C26.6906391,149.005751 25.640487,149.480494 24.6251329,149.422083 C23.9440875,149.445696 23.1337926,149.226966 22.8168828,148.562077 C22.5409849,147.924529 22.7795993,147.199986 23.137521,146.646948 C23.5650385,146.011885 24.0621519,145.426534 24.5443519,144.832484 C27.1927236,141.531651 29.9019917,138.279286 32.564034,134.989638 C32.3987438,134.406773 32.3303907,133.804023 32.2396675,133.206244 C31.9227577,131.583168 31.5772639,129.917839 30.6874309,128.497337 C30.1667046,127.657215 29.291785,126.92273 28.2540607,126.956285 C27.0858442,127.832448 26.3662726,129.141099 25.6143885,130.36027 C25.4851391,130.679665 24.9867829,130.667237 24.8861174,130.331685 C24.4722705,129.449309 24.3815473,128.458811 24.2771535,127.500625 C24.3094659,126.60582 24.4163452,125.676218 24.8786607,124.889536 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
-            <g id="编组" mask="url(#mask-2)">
-                <g transform="translate(131.250000, 131.250000)">
-                    <path d="M35,0 L78.75,0 L78.75,0 L78.75,78.75 L0,78.75 L0,35 C-2.36723813e-15,15.6700338 15.6700338,1.06562846e-14 35,0 Z" id="矩形" fill="#FFFFFF"></path>
-                    <g id="Icon" stroke-width="1" fill="none" transform="translate(14.000000, 17.500000)">
-                        <polygon id="路径" fill="#EA6C00" points="11.0216035 17.5607806 27.2105085 49.2471997 0 17.5607806"></polygon>
-                        <polygon id="路径" fill="#EA6C00" points="43.3992479 17.5607806 27.2104423 49.2471997 54.4211119 17.5607806"></polygon>
-                        <polygon id="路径" fill="#FDAD00" points="11.0215373 17.5607806 43.3992479 17.5607806 27.2104091 49.2471997"></polygon>
-                        <polygon id="路径" fill="#FDD231" points="27.2104091 0 11.8735187 1.62139536 11.0215373 17.5607475"></polygon>
-                        <polygon id="路径" fill="#FDD231" points="27.210376 0 42.547134 1.62139536 43.3992479 17.5607475"></polygon>
-                        <polygon id="路径" fill="#FDAD00" points="54.4211119 17.5607475 42.5474651 1.62139205 43.3995789 17.5607475"></polygon>
-                        <polygon id="路径" fill="#FDAD00" points="0 17.5607475 11.8736181 1.62139205 11.0216035 17.5607475"></polygon>
-                        <polygon id="路径" fill="#FEEEB7" points="27.2104091 0 11.0215373 17.5607475 43.3992479 17.5607475"></polygon>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-1">
+            <rect id="矩形备份-5" fill="#FFFFFF" x="0" y="0" width="500" height="178" rx="10"></rect>
+            <g id="编组" transform="translate(50.000000, 30.000000)">
+                <g transform="translate(0.000000, 28.000000)" id="动效标注/画板/组合/动效说明">
+                    <line x1="-0.124843945" y1="10.5" x2="-0.124843945" y2="1.71646323e-17" id="路径-6" stroke="#95A5A6" opacity="0.5" stroke-dasharray="2"></line>
+                    <line x1="299.625" y1="10.5" x2="299.625" y2="1.71646323e-17" id="路径-6" stroke="#95A5A6" opacity="0.5" stroke-dasharray="2"></line>
+                    <g id="路径-6备份-2" transform="translate(-5.000000, 4.000000)">
+                        <line x1="3.7804878" y1="6.5" x2="306.219512" y2="6.5" id="路径-6备份" stroke="#2ECC71" stroke-width="2"></line>
+                        <polygon id="矩形" fill="#2ECC71" points="5 0 10 6 5 12 0 6"></polygon>
+                        <polygon id="矩形" fill="#2ECC71" points="305 0 310 6 305 12 300 6"></polygon>
+                    </g>
+                    <g id="编组" transform="translate(-28.375000, 13.000000)" fill="#34495E" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500">
+                        <g id="A-Positon">
+                            <text>
+                                <tspan x="0.34" y="13">A Positon</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="编组" transform="translate(272.375000, 13.000000)" fill="#34495E" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500">
+                        <g id="A-Positon">
+                            <text>
+                                <tspan x="0.34" y="13">A Positon</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="编组" transform="translate(138.000000, 13.000000)" fill="#34495E" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" opacity="0.400000006">
+                        <g id="动效标注/画板/组合/时间轴/刻度数值备份">
+                            <text id="A-Positon">
+                                <tspan x="0" y="13">过渡</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g transform="translate(100.000000, 28.000000)" id="动效标注/画板/组合/动效说明备份">
+                    <line x1="-0.124843945" y1="70.5" x2="-0.124843945" y2="1.15248245e-16" id="路径-6" stroke="#95A5A6" opacity="0.5" stroke-dasharray="2"></line>
+                    <line x1="299.625" y1="70.5" x2="299.625" y2="1.15248245e-16" id="路径-6" stroke="#95A5A6" opacity="0.5" stroke-dasharray="2"></line>
+                    <g id="路径-6备份-2" transform="translate(-5.000000, 64.000000)">
+                        <line x1="3.7804878" y1="6.5" x2="306.219512" y2="6.5" id="路径-6备份" stroke="#2ECC71" stroke-width="2"></line>
+                        <polygon id="矩形" fill="#2ECC71" points="5 0 10 6 5 12 0 6"></polygon>
+                        <polygon id="矩形" fill="#2ECC71" points="305 0 310 6 305 12 300 6"></polygon>
+                    </g>
+                    <g id="编组" transform="translate(-28.375000, 73.000000)" fill="#34495E" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500">
+                        <g id="A-Positon">
+                            <text>
+                                <tspan x="0.34" y="13">A Positon</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="编组" transform="translate(272.375000, 73.000000)" fill="#34495E" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500">
+                        <g id="A-Positon">
+                            <text>
+                                <tspan x="0.34" y="13">A Positon</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="编组" transform="translate(138.000000, 73.000000)" fill="#34495E" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" opacity="0.400000006">
+                        <g id="动效标注/画板/组合/时间轴/刻度数值备份">
+                            <text id="A-Positon">
+                                <tspan x="0" y="13">过渡</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <path id="路径-6备份" d="M0.5,19.5 L0.5,23 L99.5,23 L99.5,19.5 L100.5,19.5 L100.5,27.5 L99.5,27.5 L99.5,24 L0.5,24 L0.5,27.5 L-0.5,27.5 L-0.5,19.5 L0.5,19.5 Z" fill="#95A5A6" fill-rule="nonzero"></path>
+                    <path id="路径-6备份-2" d="M100.5,19.5 L100.5,23 L199.5,23 L199.5,19.5 L200.5,19.5 L200.5,27.5 L199.5,27.5 L199.5,24 L100.5,24 L100.5,27.5 L99.5,27.5 L99.5,19.5 L100.5,19.5 Z" fill="#95A5A6" fill-rule="nonzero"></path>
+                    <path id="路径-6备份-3" d="M200.5,19.5 L200.5,23 L299.5,23 L299.5,19.5 L300.5,19.5 L300.5,27.5 L299.5,27.5 L299.5,24 L200.5,24 L200.5,27.5 L199.5,27.5 L199.5,19.5 L200.5,19.5 Z" fill="#95A5A6" fill-rule="nonzero"></path>
+                    <path id="路径-6备份-4" d="M300.5,19.5 L300.5,23 L399.5,23 L399.5,19.5 L400.5,19.5 L400.5,27.5 L399.5,27.5 L399.5,24 L300.5,24 L300.5,27.5 L299.5,27.5 L299.5,19.5 L300.5,19.5 Z" fill="#95A5A6" fill-rule="nonzero"></path>
+                    <g transform="translate(-12.000000, 0.000000)" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">
+                        <g>
+                            <text id="0" font-size="12" fill="#34495E">
+                                <tspan x="0" y="13">0</tspan>
+                            </text>
+                            <text id="ms" opacity="0.5" font-size="10" fill="#95A5A6">
+                                <tspan x="8" y="13">ms</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g transform="translate(83.000000, 0.000000)" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500" id="动效标注/画板/组合/时间轴/刻度数值备份">
+                        <g>
+                            <text id="0" font-size="12" fill="#34495E">
+                                <tspan x="0" y="13">100</tspan>
+                            </text>
+                            <text id="ms" opacity="0.5" font-size="10" fill="#95A5A6">
+                                <tspan x="20" y="13">ms</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g transform="translate(182.000000, 0.000000)" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500" id="动效标注/画板/组合/时间轴/刻度数值备份-2">
+                        <g>
+                            <text id="0" font-size="12" fill="#34495E">
+                                <tspan x="0" y="13">200</tspan>
+                            </text>
+                            <text id="ms" opacity="0.5" font-size="10" fill="#95A5A6">
+                                <tspan x="22" y="13">ms</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g transform="translate(282.000000, 0.000000)" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500" id="动效标注/画板/组合/时间轴/刻度数值备份-3">
+                        <g>
+                            <text id="0" font-size="12" fill="#34495E">
+                                <tspan x="0" y="13">300</tspan>
+                            </text>
+                            <text id="ms" opacity="0.5" font-size="10" fill="#95A5A6">
+                                <tspan x="22" y="13">ms</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g transform="translate(382.000000, 0.000000)" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500" id="动效标注/画板/组合/时间轴/刻度数值备份-4">
+                        <g>
+                            <text id="0" font-size="12" fill="#34495E">
+                                <tspan x="0" y="13">400</tspan>
+                            </text>
+                            <text id="ms" opacity="0.5" font-size="10" fill="#95A5A6">
+                                <tspan x="22" y="13">ms</tspan>
+                            </text>
+                        </g>
                     </g>
                 </g>
             </g>

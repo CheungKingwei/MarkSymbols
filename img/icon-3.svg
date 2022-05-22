@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="108px" viewBox="0 0 180 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-3</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-3" transform="translate(100.000000, 64.000000)">
+            <g id="标注组件/距离示意+气泡/⬅️" transform="translate(-12.000000, 0.000000)">
+                <g id="标注组件/数值示意/➡️" transform="translate(-88.000000, 0.000000)">
+                    <rect id="box" fill="#E74C3C" x="0" y="0" width="80" height="44" rx="8"></rect>
+                    <text id="22px" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400" fill="#FFFFFF">
+                        <tspan x="12" y="29">22px</tspan>
+                    </text>
+                    <g id="矩形-2" transform="translate(78.000000, 12.000000)" fill="#E74C3C">
+                        <path d="M-5,5 L15,5 L6.41421356,13.5857864 C5.63316498,14.366835 4.36683502,14.366835 3.58578644,13.5857864 L-5,5 L-5,5 Z" id="矩形" transform="translate(5.000000, 10.000000) scale(-1, 1) rotate(90.000000) translate(-5.000000, -10.000000) "></path>
+                    </g>
+                </g>
+                <g id="标注组件/距离示意/纵向" fill="#E74C3C">
+                    <rect id="line" x="4" y="0" width="2" height="44"></rect>
+                    <rect id="start" x="0" y="0" width="10" height="2"></rect>
+                    <rect id="end" x="0" y="42" width="10" height="2"></rect>
+                </g>
+            </g>
+            <g id="标注组件/距离示意+气泡/⬇️" transform="translate(0.000000, -12.000000)">
+                <g id="标注组件/数值示意/⬇️" transform="translate(0.000000, -52.000000)">
+                    <rect id="box" fill="#E74C3C" x="0" y="0" width="80" height="44" rx="8"></rect>
+                    <text id="40px" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400" fill="#FFFFFF">
+                        <tspan x="12" y="29">40px</tspan>
+                    </text>
+                    <g id="矩形-2" transform="translate(30.000000, 42.000000)" fill="#E74C3C">
+                        <path d="M0,0 L20,0 L11.4142136,8.58578644 C10.633165,9.36683502 9.36683502,9.36683502 8.58578644,8.58578644 L0,0 L0,0 Z" id="矩形"></path>
+                    </g>
+                </g>
+                <g id="标注组件/距离示意/横向" fill="#E74C3C">
+                    <rect id="line" x="0" y="4" width="80" height="2"></rect>
+                    <rect id="start" x="0" y="0" width="2" height="10"></rect>
+                    <rect id="end" x="78" y="0" width="2" height="10"></rect>
+                </g>
+            </g>
+            <g id="编组" fill="#E74C3C" fill-opacity="0.3">
+                <g id="矩形-2">
+                    <rect id="矩形" x="0" y="0" width="80" height="44"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

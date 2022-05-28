@@ -441,6 +441,15 @@ button {
     padding: 12px 24px;
     font-size: 18px;
     font-weight: 600;
+    margin-top: 2rem;
+}
+
+button a {
+    color: #ffffff !important;
+}
+
+button a:hover {
+    opacity: 1 !important;
 }
 
 button:hover {

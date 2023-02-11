@@ -5,8 +5,8 @@
 Mark Symbols（标注标识组件），一个专为UI设计师打造的标注工具，满足您对设计稿手动标注、要点标识等需求， 下面将以几个场景来介绍功能。
 <br><br>
 ## 开始使用
-Sketch：<a harf="https://github.com/CheungKingwei/MarkSymbols/raw/main/%F0%9F%93%90%E6%A0%87%E6%B3%A8%E6%A0%87%E8%AF%86%E7%BB%84%E4%BB%B6.sketch">https://github.com/CheungKingwei/MarkSymbols/raw/main/%F0%9F%93%90%E6%A0%87%E6%B3%A8%E6%A0%87%E8%AF%86%E7%BB%84%E4%BB%B6.sketch</a><br>
-Figma：<a harf="https://www.figma.com/community/file/1206092204640848169">https://www.figma.com/community/file/1206092204640848169</a>
+Sketch：<a href=https://github.com/CheungKingwei/MarkSymbols/raw/main/%F0%9F%93%90%E6%A0%87%E6%B3%A8%E6%A0%87%E8%AF%86%E7%BB%84%E4%BB%B6.sketch">https://github.com/CheungKingwei/MarkSymbols/raw/main/%F0%9F%93%90%E6%A0%87%E6%B3%A8%E6%A0%87%E8%AF%86%E7%BB%84%E4%BB%B6.sketch</a><br>
+Figma：<a href=https://www.figma.com/community/file/1206092204640848169">https://www.figma.com/community/file/1206092204640848169</a>
 <br><br>
 ## 如何使用
 ### 尺寸及间距标注

@@ -7,7 +7,7 @@ Mark Symbols（标注标识组件），一个专为UI设计师打造的标注工
 <br><br>
 
 ## 开始使用<br>
-<a href="https://github.com/CheungKingwei/MarkSymbols/raw/main/%F0%9F%93%90%E6%A0%87%E6%B3%A8%E6%A0%87%E8%AF%86%E7%BB%84%E4%BB%B6.sketch">使用 Sketch 版本</a><spen style="opacity: 0;">----------------</spen><a href="https://www.figma.com/community/file/1206092204640848169">使用 Figma 版本</a>
+<a href="https://github.com/CheungKingwei/MarkSymbols/raw/main/%F0%9F%93%90%E6%A0%87%E6%B3%A8%E6%A0%87%E8%AF%86%E7%BB%84%E4%BB%B6.sketch">使用 Sketch 版本</a><spen style="opacity:0;">----------------</spen><a href="https://www.figma.com/community/file/1206092204640848169">使用 Figma 版本</a>
 <br><br>
 ## 如何使用<br>
 ### 尺寸及间距标注

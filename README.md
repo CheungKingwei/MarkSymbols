@@ -1,14 +1,14 @@
 # 📐标注标识组件（Mark Symbols）
 <img style="width:100%" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/logo.png?raw=true">
 <br><br>
-## 关于Mark Symbols
+## 关于Mark Symbols<br>
 Mark Symbols（标注标识组件），一个专为UI设计师打造的标注工具，满足您对设计稿手动标注、要点标识等需求， 下面将以几个场景来介绍功能。
 <br><br>
-## 开始使用
+## 开始使用<br>
 Sketch：<a href=https://github.com/CheungKingwei/MarkSymbols/raw/main/%F0%9F%93%90%E6%A0%87%E6%B3%A8%E6%A0%87%E8%AF%86%E7%BB%84%E4%BB%B6.sketch">https://github.com/CheungKingwei/MarkSymbols/raw/main/%F0%9F%93%90%E6%A0%87%E6%B3%A8%E6%A0%87%E8%AF%86%E7%BB%84%E4%BB%B6.sketch</a><br>
 Figma：<a href=https://www.figma.com/community/file/1206092204640848169">https://www.figma.com/community/file/1206092204640848169</a>
 <br><br>
-## 如何使用
+## 如何使用<br>
 ### 尺寸及间距标注
 1.尺寸标注
 <img style="width:100%" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/1.gif?raw=true">
@@ -16,7 +16,7 @@ Figma：<a href=https://www.figma.com/community/file/1206092204640848169">https:
 2.间距标注
 <img style="width:100%" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/2.gif?raw=true">
 
-### 要点标识
+### 要点标识<br>
 1.要点标识
 <img style="width:100%" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/3.gif?raw=true">
 <img style="width:100%" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/4.gif?raw=true">
@@ -25,10 +25,10 @@ Figma：<a href=https://www.figma.com/community/file/1206092204640848169">https:
 2.说明标识
 <img style="width:100%" src="https://github.com/CheungKingwei/MarkSymbols/blob/main/introduce/6.gif?raw=true">
 <br><br>
-## 意见反馈
+## 意见反馈<br>
 如在使用途中有任何疑问或问题，可通过邮件联系<a href="mailto:kingweicheung@qq.com">kingweicheung@qq.com</a>，收到后会尽快为您解决。
 <br><br>
-## 开源协议
+## 开源协议<br>
 MIT License
 
 Copyright (c) 2022 Kingwei.Cheung
